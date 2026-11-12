@@ -1,0 +1,129 @@
+{
+    "title": "Demander des renseignements à un voisin sur l'immeuble et le quartier – TCF Canada B2 Tâche 2",
+    "model": "google/gemini-3.8-flash-lite-tts",
+    "speakers": {
+        "Speaker 1": {
+            "voice": "Puck"
+        },
+        "Speaker 2": {
+            "voice": "Kore"
+        }
+    },
+    "turns": [
+        {
+            "speaker": "Speaker 1",
+            "instructions": "polite and friendly",
+            "text": "Bonjour ! Je viens d'emménager dans l'immeuble et je ne connais pas encore le quartier. Comme vous y habitez depuis quelque temps, est-ce que je pourrais vous poser quelques questions ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "welcoming and helpful",
+            "text": "Bien sûr, avec plaisir. Je vous écoute."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "curious and polite",
+            "text": "Tout d'abord, comment sont les relations entre les voisins ? L'ambiance est-elle plutôt conviviale ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "calm and reassuring",
+            "text": "Oui, les gens sont accueillants. On se salue et on s'entraide, tout en respectant la tranquillité de chacun."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "relieved and interested",
+            "text": "C'est rassurant. Y a-t-il des règles particulières concernant le bruit ou l'utilisation des parties communes ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "informative",
+            "text": "Il faut éviter le bruit après vingt-deux heures et garder l'entrée et les escaliers propres. La cour est accessible à tous, à condition de la laisser rangée."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "thoughtful and inquisitive",
+            "text": "Je comprends. Et les frais d'entretien sont-ils compris dans le loyer ou faut-il payer un supplément ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "clear and informative",
+            "text": "Les charges courantes sont généralement comprises. Pour les frais exceptionnels, mieux vaut vérifier votre contrat avec votre propriétaire."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "practical and friendly",
+            "text": "Je le ferai. J'aimerais aussi faire connaissance avec les habitants. Organisez-vous parfois des activités ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "encouraging",
+            "text": "Oui, nous faisons une rencontre dans la cour au début de l'été et une réunion des résidents deux fois par an."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "interested and courteous",
+            "text": "Les nouveaux arrivants peuvent-ils y participer ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "helpful and agreeable",
+            "text": "Bien sûr ! Vous pourrez rencontrer les voisins et même proposer des idées. La prochaine réunion devrait avoir lieu le mois prochain."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "curious",
+            "text": "Parfait. Concernant le quartier, est-il plutôt calme ? Je travaille parfois à la maison et j'aimerais éviter trop de bruit."
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "calm and matter-of-fact",
+            "text": "Il est assez calme, surtout le soir. Le samedi matin, il y a un peu d'animation à cause du marché, mais cela reste agréable."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "reassured and interested",
+            "text": "Justement, quels commerces trouve-t-on à proximité ? Peut-on faire ses courses à pied ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "friendly and informative",
+            "text": "Oui. Une boulangerie, une pharmacie et un supermarché se trouvent à moins de dix minutes à pied. Le marché a lieu le samedi."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "thoughtful and inquisitive",
+            "text": "C'est très pratique. Et pour les transports, les bus passent-ils régulièrement, y compris le soir ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "advising and considerate",
+            "text": "En journée, ils passent environ toutes les quinze minutes. Le soir, le service est moins fréquent, donc consultez les horaires avant de partir."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "understanding and curious",
+            "text": "Merci pour le conseil. Y a-t-il aussi un parc ou un endroit pour faire du sport ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "clear and informative",
+            "text": "Oui, le parc municipal est à cinq minutes. Il y a des espaces verts, une piste cyclable et des équipements sportifs."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "pleased and practical",
+            "text": "C'est exactement ce que je cherchais. Si j'ai bien compris, l'immeuble est accueillant et les principaux services sont accessibles à pied. Merci pour toutes ces informations, elles vont beaucoup m'aider à m'installer."
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "warm and welcoming",
+            "text": "Avec plaisir ! Bienvenue dans l'immeuble. N'hésitez pas si vous avez d'autres questions."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "grateful and warm",
+            "text": "Merci, c'est très gentil. Bonne journée et à bientôt !"
+        }
+    ]
+}

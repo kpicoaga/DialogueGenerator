@@ -1,0 +1,139 @@
+{
+    "title": "Un week-end à Montréal : les lieux à découvrir",
+    "model": "google/gemini-3.8-flash-lite-tts",
+    "speakers": {
+        "Speaker 1": {
+            "voice": "Puck"
+        },
+        "Speaker 2": {
+            "voice": "Kore"
+        }
+    },
+    "turns": [
+        {
+            "speaker": "Speaker 1",
+            "instructions": "friendly, polite, and curious",
+            "text": "Salut ! Tu viens de passer un week-end à Montréal,f une ville que tu connais très bien, et j'aimerais y aller. Est-ce que je pourrais te poser quelques questions à ce sujet ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "welcoming, cheerful, and helpful",
+            "text": "Bien sûr, avec plaisir ! Montréal est une ville que j'adore, alors pose-moi toutes tes questions."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "grateful and politely inquisitive",
+            "text": "Merci, c'est très gentil. D'abord, quel quartier est-ce que tu as préféré pendant ton week-end là-bas ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "enthusiastic and descriptive",
+            "text": "J'ai adoré le Plateau-Mont-Royal. Il y a plein de cafés, de petites boutiques et des murales colorées dans toutes les rues."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "interested and inquisitive",
+            "text": "Ah, c'est intéressant. Et pourquoi est-ce que tu as préféré ce quartier plutôt que le Vieux-Montréal ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "calm and explanatory",
+            "text": "Parce que l'ambiance est plus authentique. Les habitants s'y promènent tranquillement, alors que le Vieux-Montréal est souvent rempli de touristes."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "attentive and curious",
+            "text": "Je vois. Et où est-ce que tu as mangé samedi soir ? J'aimerais goûter la cuisine locale."
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "friendly and informative",
+            "text": "Dans un petit bistro près du parc La Fontaine. On y sert de la poutine gourmet et des bagels fameux."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "interested and inquisitive",
+            "text": "Ah, le parc La Fontaine ! Est-ce qu'on peut y faire des activités, comme du vélo ou du patin ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "helpful and informative",
+            "text": "Oui, on peut louer des vélos juste à côté. En hiver, la patinoire du parc est ouverte à tout le monde."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "positive and curious",
+            "text": "Très bien. Combien coûte la location d'un vélo pour toute la journée ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "informative and practical",
+            "text": "Environ vingt-cinq dollars pour la journée. Mais avec le système BIXI, tu peux payer beaucoup moins pour de courts trajets."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "interested and inquisitive",
+            "text": "Ah, BIXI m'intéresse. Est-ce qu'il faut s'inscrire avant, ou je peux payer directement à la borne ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "reassuring and explanatory",
+            "text": "Pas besoin de s'inscrire. Tu paies avec ta carte à la borne et tu rends le vélo dans n'importe quelle station."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "pleased and conversationally curious",
+            "text": "Parfait, ça me semble pratique. Et quand est-ce que c'est le meilleur moment pour y aller, à ton avis ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "calm and informative",
+            "text": "Au printemps ou au début de l'automne. Il fait beau, et il y a moins de monde qu'en plein été."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "thoughtful and politely inquisitive",
+            "text": "D'accord. J'aimerais également savoir qui organise des visites guidées. Est-ce que tu connais une bonne agence ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "helpful and informative",
+            "text": "Oui, un organisme local propose une visite à pied des murales le samedi matin. Elle part de la station Mont-Royal."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "interested and inquisitive",
+            "text": "Je vois. Et comment est-ce que je peux aller de l'aéroport jusqu'au Plateau ? Est-ce que c'est facile sans voiture ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "confident and reassuring",
+            "text": "Très facile. Tu prends le bus 747 jusqu'au centre-ville, puis le métro. Le trajet dure environ une heure."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "curious and politely inquisitive",
+            "text": "Dans ce cas, pourrais-tu me décrire un peu plus la visite des murales ? Combien de temps est-ce qu'elle dure ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "informative and enthusiastic",
+            "text": "Elle dure deux heures. Le guide explique l'histoire de chaque œuvre, et tu peux prendre beaucoup de photos."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "grateful and satisfied",
+            "text": "Merci beaucoup pour toutes ces informations. Ça répond à toutes mes questions, et je vais organiser mon week-end à Montréal."
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "warm, encouraging, and friendly",
+            "text": "Avec plaisir ! Je suis sûr que tu vas adorer. Profite bien de ton séjour !"
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "grateful, cheerful, and warm",
+            "text": "Merci encore, j'ai hâte d'y être ! Bonne journée et à bientôt."
+        }
+    ]
+}
