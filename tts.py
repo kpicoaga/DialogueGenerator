@@ -4,11 +4,28 @@ import os
 import json
 import sys
 import time
+from pathlib import Path
 
+# ===== LOAD .env FILE =====
+# Loads OPENROUTER_API_KEY (and any other vars) from a .env file so you don't
+# have to `export` it manually. A key already exported in your shell wins.
+def load_env_file(path=".env"):
+    env_path = Path(path)
+    if not env_path.is_file():
+        return
+    for line in env_path.read_text(encoding="utf-8").splitlines():
+        line = line.strip()
+        if not line or line.startswith("#") or "=" not in line:
+            continue
+        key, value = line.split("=", 1)
+        key, value = key.strip(), value.strip().strip('"').strip("'")
+        os.environ.setdefault(key, value)
+
+load_env_file()
 # ===== CONFIG =====
 # OPENROUTER_API_KEY will be read from environment variable
 URL = "https://openrouter.ai/api/v1/audio/speech"
-DIALOGUE_FILE = "dialogue8.json"
+DIALOGUE_FILE = "dialogue10.json"
 MAX_RETRIES = 6
 DUMMY_TEXT = "."   # try "." instead of " "; change if it still fails
 SKIP_EXISTING = True
@@ -17,6 +34,7 @@ SKIP_EXISTING = True
 BASE_OUTPUT_DIR = "/Volumes/CrucialP5/kevinpicoaga/Documents/openrouterclaude/FrenchWeb/Dialoguemp3"
 # ==================
 
+# OPENROUTER_API_KEY will be read from environment variable
 OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY")
 if not OPENROUTER_API_KEY:
     print("❌ Set it first: export OPENROUTER_API_KEY='your-key'")
