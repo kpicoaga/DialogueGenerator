@@ -1,0 +1,149 @@
+{
+    "title": "S'intéresser au parc d'attractions dont un ami vient de parler",
+    "model": "google/gemini-3.8-flash-lite-tts",
+    "speakers": {
+        "Speaker 1": {
+            "voice": "Puck"
+        },
+        "Speaker 2": {
+            "voice": "Kore"
+        }
+    },
+    "turns": [
+        {
+            "speaker": "Speaker 1",
+            "instructions": "polite and friendly, opening with curiosity",
+            "text": "Salut ! J'ai entendu dire que tu es allé dans un parc d'attractions le week-end dernier, et ça m'intéresse beaucoup. Est-ce que je pourrais te poser quelques questions à ce sujet ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "welcoming and enthusiastic",
+            "text": "Bien sûr, avec plaisir ! Demande-moi ce que tu veux, j'ai adoré cet endroit."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "polite and inquisitive, starting the questions",
+            "text": "Merci. Pour commencer, où se trouve exactement ce parc d'attractions ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "calm and informative",
+            "text": "Il est à une heure de route d'ici, près d'un grand lac, au nord de la ville."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "engaged and politely curious",
+            "text": "D'accord. J'aimerais également savoir combien coûte l'entrée pour une journée."
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "helpful and precise",
+            "text": "Compte environ quarante euros par adulte. Il y a un tarif réduit pour les enfants et les étudiants."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "interested and thoughtful",
+            "text": "Ah, c'est intéressant. Puisque les prix sont élevés, est-ce qu'il y a des offres pour les familles ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "reassuring and informative",
+            "text": "Oui, un forfait famille pour deux adultes et deux enfants, ça revient moins cher."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "pleasantly surprised, then practical",
+            "text": "Ça me semble pratique ! Et comment est-ce qu'on peut s'y rendre sans voiture ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "clear and informative",
+            "text": "Il y a une navette depuis la gare, elle part toutes les heures et dure trente minutes."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "satisfied and curious",
+            "text": "Parfait. Quand est-ce que le parc ouvre et ferme en été ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "calm and detailed",
+            "text": "De dix heures à vingt-deux heures en juillet et août. En juin, ça ferme deux heures plus tôt."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "understanding and practical",
+            "text": "Je comprends mieux. Puisque la journée est longue, où est-ce qu'on peut manger sur place ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "informative with a slight caution",
+            "text": "Il y a plusieurs restaurants et des stands de nourriture rapide, mais les prix sont un peu élevés."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "thoughtful and pragmatic",
+            "text": "Je vois. Dans ce cas, est-ce qu'on a le droit d'apporter son propre pique-nique ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "reassuring and warm",
+            "text": "Oui, c'est autorisé, et il y a des tables dans un jardin près du lac."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "curious and engaged",
+            "text": "Je vois. Quelles activités est-ce que tu as préférées pendant cette journée ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "enthusiastic and nostalgic",
+            "text": "Les grands huit, bien sûr, et surtout le spectacle aquatique en fin de soirée."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "interested and inquisitive",
+            "text": "Ah, c'est intéressant. Justement, à quelle heure commence ce spectacle et combien de temps dure-t-il ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "informative and advisory",
+            "text": "Il commence vers vingt heures et dure une trentaine de minutes. Il faut arriver en avance."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "polite and practical",
+            "text": "Très bien, merci. Dans ce cas, est-ce qu'il faut réserver les billets à l'avance ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "helpful and balanced",
+            "text": "Oui, c'est mieux en ligne, mais on peut aussi acheter sur place s'il reste des places."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "satisfied and curious about organisation",
+            "text": "C'est parfait ! Et qui est-ce que je dois contacter si je veux organiser une sortie de groupe ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "calm and informative",
+            "text": "Le service des groupes, il y a une adresse sur leur site internet."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "grateful and warm, wrapping up",
+            "text": "Parfait, ça répond à toutes mes questions. Merci beaucoup pour ces informations, je vais y réfléchir et en parler à ma famille."
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "friendly and encouraging",
+            "text": "Avec plaisir ! Si tu y vas, tu me raconteras. Bonne journée !"
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "polite and warm, closing",
+            "text": "Merci encore, c'est très gentil. À bientôt !"
+        }
+    ]
+}

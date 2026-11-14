@@ -1,0 +1,149 @@
+{
+    "title": "Garder l'enfant d'un voisin",
+    "model": "google/gemini-3.8-flash-lite-tts",
+    "speakers": {
+        "Speaker 1": {
+            "voice": "Puck"
+        },
+        "Speaker 2": {
+            "voice": "Kore"
+        }
+    },
+    "turns": [
+        {
+            "speaker": "Speaker 1",
+            "instructions": "polite and friendly",
+            "text": "Bonjour, comment allez-vous ? Vous m'avez demandé de garder votre enfant pendant votre absence, et j'aimerais bien m'organiser à l'avance. Est-ce que je pourrais vous poser quelques questions à ce sujet ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "welcoming and helpful",
+            "text": "Bien sûr, avec plaisir ! Posez-moi toutes vos questions, je vous écoute."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "polite and inquisitive",
+            "text": "Merci. Pour commencer, quand avez-vous besoin de moi exactement ? J'aimerais bien noter la date et l'heure de votre départ."
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "calm and informative",
+            "text": "Samedi prochain, de neuf heures à dix-huit heures. Je dois assister à un mariage, à deux heures d'ici."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "curious and conversational",
+            "text": "D'accord, ça fait une longue journée. Pourquoi est-ce que vous ne l'emmenez pas avec vous à ce mariage ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "matter-of-fact and explanatory",
+            "text": "Le trajet est long et la fête finit très tard. Il a six ans, il doit dormir."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "understanding and thoughtful",
+            "text": "Je comprends, c'est logique. Où préférez-vous que je le garde : à votre appartement ou plutôt chez moi ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "polite and reassuring",
+            "text": "Chez moi, si ça ne vous dérange pas. Il est plus tranquille avec ses jouets et ses habitudes."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "practical and inquisitive",
+            "text": "Très bien. Combien de repas est-ce que je dois lui préparer pendant la journée ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "clear and informative",
+            "text": "Un déjeuner vers midi et un goûter à seize heures. Tout est au frigo, il suffit de réchauffer."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "interested and attentive",
+            "text": "Pratique ! Quelles sont ses allergies, ou les aliments que je dois absolument éviter ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "serious and informative",
+            "text": "Il est allergique aux arachides, donc attention aux gâteaux. En cas de réaction, son médicament est dans la trousse rouge."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "careful and seeking confirmation",
+            "text": "Je vois. Donc, si je comprends bien, je dois lui donner ce médicament dès les premiers signes de réaction ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "serious and reassuring",
+            "text": "Exactement. Si son visage gonfle ou s'il tousse beaucoup, donnez-lui le médicament et appelez-moi tout de suite."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "attentive and practical",
+            "text": "Compris. Comment est-ce que je peux vous joindre pendant le mariage ? J'aimerais avoir un numéro fiable."
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "informative and slightly concerned",
+            "text": "Sur mon portable, mais le réseau est faible. Si je ne réponds pas, appelez ma sœur, elle habite à côté."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "polite and practical",
+            "text": "Dans ce cas, est-ce que vous pouvez me noter son numéro ? Je préfère l'avoir avant votre départ."
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "helpful and reassuring",
+            "text": "Bien sûr, je l'écris sur une feuille avec les autres numéros importants, sur la table de l'entrée."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "pleased and inquisitive",
+            "text": "C'est très pratique. Qui d'autre peut venir chercher votre fils ou passer le voir pendant la journée ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "firm and protective",
+            "text": "Personne, sauf ma sœur. Et il ne doit ouvrir la porte à aucun inconnu, bien sûr."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "friendly and interested",
+            "text": "Parfait. Quelle activité préfère-t-il l'après-midi ? J'aimerais lui proposer quelque chose qui lui plaît vraiment."
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "warm and informative",
+            "text": "Il adore dessiner et jouer au ballon. Par contre, pas de tablette, ça le rend nerveux avant la sieste."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "interested and thoughtful",
+            "text": "Ah, c'est intéressant. Dans ce cas, est-ce que je peux lui proposer un puzzle ou un livre pour se calmer ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "enthusiastic and encouraging",
+            "text": "Oui, excellente idée ! Il aime les livres sur les animaux, il y en a dans sa chambre."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "grateful and reassuring",
+            "text": "Parfait, ça répond à toutes mes questions. Merci pour votre confiance, je serai chez vous samedi à neuf heures."
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "relieved and appreciative",
+            "text": "Merci à vous, c'est un grand soulagement ! N'hésitez pas à m'appeler si vous avez une dernière question."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "warm and polite",
+            "text": "Merci encore, c'est très gentil. Bonne journée et à bientôt !"
+        }
+    ]
+}

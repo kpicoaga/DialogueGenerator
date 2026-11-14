@@ -1,0 +1,149 @@
+{
+    "title": "S'intéresser à la pratique d'un instrument de musique d'un ami",
+    "model": "google/gemini-3.8-flash-lite-tts",
+    "speakers": {
+        "Speaker 1": {
+            "voice": "Puck"
+        },
+        "Speaker 2": {
+            "voice": "Kore"
+        }
+    },
+    "turns": [
+        {
+            "speaker": "Speaker 1",
+            "instructions": "polite and friendly, opening with curiosity",
+            "text": "Salut ! J'ai entendu dire que tu joues régulièrement d'un instrument de musique, et ça m'intéresse beaucoup. Est-ce que je pourrais te poser quelques questions à ce sujet ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "welcoming and enthusiastic",
+            "text": "Bien sûr, avec plaisir ! Demande-moi ce que tu veux, la musique est ma passion."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "polite and inquisitive, starting the questions",
+            "text": "Merci. Pour commencer, de quel instrument est-ce que tu joues exactement ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "calm and informative, proud of the instrument",
+            "text": "Je joue de la guitare acoustique et un peu de piano. La guitare, c'est mon instrument principal."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "engaged and politely curious",
+            "text": "D'accord. J'aimerais également savoir depuis combien de temps tu en joues."
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "reflective and warm",
+            "text": "Depuis cinq ans environ. J'ai commencé à l'université, avec un ami qui jouait déjà."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "polite and inquisitive",
+            "text": "Très bien, merci. Et comment est-ce que tu as appris : tout seul ou avec un professeur ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "modest and informative",
+            "text": "Surtout seul, avec des vidéos et des applications. J'ai pris quelques cours pour les bases."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "curious and engaged",
+            "text": "Je vois. Quels genres de musique est-ce que tu préfères jouer ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "enthusiastic and thoughtful",
+            "text": "Le folk et la pop acoustique. Parfois du jazz, mais c'est plus difficile techniquement."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "interested and inquisitive",
+            "text": "Ah, c'est intéressant. Puisque tu joues en public, est-ce que tu as déjà fait des concerts ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "excited but a little nervous",
+            "text": "Oui, quelques petits concerts dans des cafés et des fêtes de quartier. C'est stressant mais génial."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "pleasantly surprised, then practical",
+            "text": "Ça me semble pratique ! Justement, où est-ce que tu te produis et qui vient t'écouter ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "relaxed and informative",
+            "text": "Au petit café du centre-ville, surtout. Mes amis et les habitués du quartier viennent m'écouter."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "polite and practical",
+            "text": "Très bien, merci. Dans ce cas, combien coûte l'entrée et faut-il réserver ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "helpful and advisory",
+            "text": "L'entrée est libre, mais il faut consommer une boisson. La salle est petite, donc arrive tôt."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "understanding and curious",
+            "text": "Je comprends mieux. Et comment est-ce qu'on peut s'inscrire à un cours pour débutants ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "clear and informative",
+            "text": "Il faut contacter l'école de musique municipale. L'inscription se fait en ligne ou à l'accueil."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "satisfied and inquisitive",
+            "text": "C'est parfait ! Et quand est-ce que les cours commencent et combien de temps durent-ils ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "calm and precise",
+            "text": "Les cours reprennent en septembre, une heure par semaine pendant tout le semestre."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "curious and thoughtful",
+            "text": "Très bien. Et pourquoi est-ce que tu conseilles la guitare plutôt qu'un autre instrument ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "enthusiastic and persuasive",
+            "text": "Parce qu'on peut jouer partout et qu'on progresse vite. Et elle coûte moins cher qu'un piano."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "interested and pragmatic",
+            "text": "Ah, c'est intéressant. Dans ce cas, combien faut-il prévoir pour acheter une guitare débutant ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "reassuring and informative",
+            "text": "Entre cent et deux cents euros pour une guitare correcte. Les occasions sont très bien aussi."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "grateful and warm, wrapping up",
+            "text": "Parfait, ça répond à toutes mes questions. Merci beaucoup pour ces informations, je vais y réfléchir et peut-être m'y mettre aussi."
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "friendly and encouraging",
+            "text": "Avec plaisir ! Si tu te lances, tu me raconteras. Bonne journée !"
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "polite and warm, closing",
+            "text": "Merci encore, c'est très gentil. À bientôt !"
+        }
+    ]
+}

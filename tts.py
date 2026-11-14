@@ -25,7 +25,7 @@ load_env_file()
 # ===== CONFIG =====
 # OPENROUTER_API_KEY will be read from environment variable
 URL = "https://openrouter.ai/api/v1/audio/speech"
-DIALOGUE_FILE = "dialogue10.json"
+DIALOGUE_FILE = "t2d12.json"
 MAX_RETRIES = 6
 DUMMY_TEXT = "."   # try "." instead of " "; change if it still fails
 SKIP_EXISTING = True
