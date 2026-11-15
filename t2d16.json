@@ -1,0 +1,139 @@
+{
+  "title": "Se renseigner sur une croisière canadienne auprès d'un agent de voyage",
+  "model": "google/gemini-3.8-flash-lite-tts",
+  "speakers": {
+    "Speaker 1": {
+      "voice": "Puck"
+    },
+    "Speaker 2": {
+      "voice": "Kore"
+    }
+  },
+  "turns": [
+    {
+      "speaker": "Speaker 1",
+      "instructions": "polite and friendly",
+      "text": "Bonjour ! Je prévois de faire une croisière au Canada cet été et je voudrais m'informer sur les options. Est-ce que je pourrais te poser quelques questions à ce sujet ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "welcoming and helpful",
+      "text": "Bonjour ! Avec plaisir, je connais bien les croisières au Canada. Que souhaitez-vous savoir ?"
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "curious and inquisitive",
+      "text": "Merci. Pour commencer, comment est-ce que je peux réserver une cabine avec balcon ou intérieure et quels sont les modes de paiement acceptés ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Vous pouvez réserver en ligne ou par téléphone. Le paiement se fait par carte ou virement, un acompte est demandé."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "D'accord. Et quand est-ce que les croisières partent généralement et combien de temps durent-elles ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "informative and matter-of-fact",
+      "text": "La saison principale va de mai à octobre. Les croisières durent de trois à quatorze nuits selon l'itinéraire."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "grateful and warm",
+      "text": "Ah, c'est intéressant. Combien coûte une croisière standard pour deux personnes en juillet ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "balanced and advisory",
+      "text": "Pour une semaine en juillet, comptez environ mille huit cents euros pour deux en cabine intérieure, taxes comprises."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "polite and inquisitive",
+      "text": "Très bien, merci. Et où est-ce que le bateau fait escale pendant le voyage ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "informative and clear",
+      "text": "Ça dépend de l'itinéraire, mais souvent Québec, Tadoussac, Gaspé, les îles de la Madeleine et Terre-Neuve."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "pleased and inquisitive",
+      "text": "Je vois. Quelles sont les activités proposées à bord pendant la navigation, et y a-t-il des animations pour les enfants ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "helpful and reassuring",
+      "text": "Il y a des spectacles, des conférences sur la faune, un spa, une piscine, des ateliers cuisine locale et un club enfants."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "engaged and practical",
+      "text": "Ah, c'est super. Pourquoi est-ce que c'est recommandé de réserver tôt pour l'été ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "informative and explanatory",
+      "text": "Les cabines se remplissent vite en haute saison, surtout les cabines avec balcon. Réserver tôt assure le choix."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "curious and thoughtful",
+      "text": "Je comprends mieux. Et qui est-ce qui s'occupe des excursions à terre, faut-il les réserver à l'avance ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and practical",
+      "text": "L'agence propose des forfaits excursions, mais vous pouvez aussi réserver sur place. Mieux vaut réserver à l'avance."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "practical and curious",
+      "text": "Justement, est-ce que les repas sont inclus dans le prix ou faut-il payer les restaurants à part ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "informative and candid",
+      "text": "La pension complète est incluse. Les restaurants de spécialités sont en supplément, sur réservation."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "grateful and polite",
+      "text": "C'est noté. Et est-ce qu'il y a une assurance annulation proposée par l'agence ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "clear and reassuring",
+      "text": "Oui, nous proposons une assurance annulation à quatre pour cent du montant total. Elle couvre maladie et imprévus."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and practical",
+      "text": "Je vois. Et quels documents faut-il fournir pour l'embarquement, passeport ou carte d'identité ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "friendly and encouraging",
+      "text": "Un passeport valide est obligatoire. Pour les ressortissants canadiens, une pièce d'identité avec photo suffit."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "curious and engaged",
+      "text": "Parfait, ça répond à toutes mes questions. Merci beaucoup, je vais comparer les itinéraires et réserver cette semaine."
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "welcoming and helpful",
+      "text": "Avec plaisir ! N'hésitez pas si vous avez d'autres questions. Bonne journée et bon voyage !"
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "engaged and inquisitive",
+      "text": "Merci encore pour votre aide, c'est très gentil. À bientôt, et bonne préparation pour la croisière !"
+    }
+  ]
+}
