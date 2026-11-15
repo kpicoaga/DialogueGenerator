@@ -1,0 +1,149 @@
+{
+    "title": "Se renseigner sur le système de santé canadien auprès d'un collègue",
+    "model": "google/gemini-3.8-flash-lite-tts",
+    "speakers": {
+        "Speaker 1": {
+            "voice": "Puck"
+        },
+        "Speaker 2": {
+            "voice": "Kore"
+        }
+    },
+    "turns": [
+        {
+            "speaker": "Speaker 1",
+            "instructions": "polite and friendly",
+            "text": "Bonjour ! Je viens de m'installer au Canada et je cherche à comprendre le système de santé. Comme tu vis ici depuis longtemps, est-ce que je pourrais te poser quelques questions à ce sujet ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "welcoming and helpful",
+            "text": "Bien sûr, avec plaisir ! Bienvenue au Canada. Demande-moi ce que tu veux."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "curious and inquisitive",
+            "text": "Merci. Pour commencer, comment est-ce que je dois faire pour trouver un médecin de famille ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "calm and informative",
+            "text": "Il faut t'inscrire sur une liste provinciale, mais l'attente peut durer plusieurs mois."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "interested and engaged",
+            "text": "D'accord. J'aimerais également savoir combien de temps est-ce que ça prend pour obtenir un rendez-vous."
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "informative and matter-of-fact",
+            "text": "Chez un médecin de famille, une ou deux semaines. Dans une clinique sans rendez-vous, souvent le jour même."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "curious and thoughtful",
+            "text": "Ah, c'est intéressant. Puisque les délais sont longs, est-ce qu'il vaut mieux passer par une clinique sans rendez-vous ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "balanced and advisory",
+            "text": "Oui, pour les petits problèmes, c'est plus rapide. Mais pour un suivi régulier, il faut un médecin de famille."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "engaged and practical",
+            "text": "Je comprends mieux. Justement, est-ce que les consultations sont gratuites ou est-ce qu'il faut payer à chaque visite ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "informative and slightly cautionary",
+            "text": "Avec la carte d'assurance maladie, la plupart des soins sont gratuits. Mais tout n'est pas couvert, attention."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "polite and inquisitive",
+            "text": "Très bien, merci. Et où est-ce que je dois aller si j'ai besoin de soins urgents ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "calm and practical",
+            "text": "À l'hôpital le plus proche, aux urgences. Mais pour une fracture légère, une clinique peut suffire."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "curious and engaged",
+            "text": "Je vois. Quels documents est-ce que je dois fournir pour être remboursé ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "helpful and reassuring",
+            "text": "Ta carte d'assurance maladie et une pièce d'identité. Garde toujours les reçus pour les remboursements."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "pleased and inquisitive",
+            "text": "C'est parfait ! Et comment est-ce que je peux obtenir cette carte d'assurance maladie ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "informative and clear",
+            "text": "Tu fais la demande en ligne, avec ton permis de travail et une preuve d'adresse. Ça prend quelques semaines."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "interested and practical",
+            "text": "Ah, c'est intéressant. Dans ce cas, est-ce que les médicaments sont compris dans l'assurance ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "informative and candid",
+            "text": "Non, pas tous. Les médicaments en pharmacie sont souvent payants, sauf si tu as une assurance privée."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "curious and thoughtful",
+            "text": "Je comprends mieux. Et qui est-ce que je dois contacter si mon employeur me demande un certificat médical ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "calm and informative",
+            "text": "Ton médecin de famille ou la clinique. Le certificat coûte parfois une vingtaine de dollars, non remboursés."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "interested and inquisitive",
+            "text": "Très bien. Et pourquoi est-ce que les congés maladie sont si différents d'une province à l'autre ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "informative and explanatory",
+            "text": "Parce que la santé est gérée par chaque province. Les règles et les durées changent donc selon l'endroit."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "practical and curious",
+            "text": "C'est noté. Et combien de jours de congé maladie est-ce que j'ai droit chez nous ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "clear and reassuring",
+            "text": "Tu as droit à cinq jours par an, dont trois payés. C'est la loi dans notre province."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "grateful and warm",
+            "text": "Parfait, ça répond à toutes mes questions. Merci beaucoup pour ces informations, je vais me renseigner sur la carte d'assurance maladie dès cette semaine."
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "friendly and encouraging",
+            "text": "Avec plaisir ! Si tu as d'autres questions, n'hésite pas. Bonne journée !"
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "grateful and polite",
+            "text": "Merci encore, c'est très gentil. À bientôt !"
+        }
+    ]
+}

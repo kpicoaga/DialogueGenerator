@@ -1,0 +1,149 @@
+{
+    "title": "Se renseigner sur un court séjour dans une région canadienne auprès d'un collègue",
+    "model": "google/gemini-3.8-flash-lite-tts",
+    "speakers": {
+        "Speaker 1": {
+            "voice": "Puck"
+        },
+        "Speaker 2": {
+            "voice": "Kore"
+        }
+    },
+    "turns": [
+        {
+            "speaker": "Speaker 1",
+            "instructions": "polite and friendly",
+            "text": "Salut ! J'ai entendu dire que tu as fait un court séjour dans une région canadienne, et ça m'intéresse beaucoup. Est-ce que je pourrais te poser quelques questions à ce sujet ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "welcoming and helpful",
+            "text": "Bien sûr, avec plaisir ! Demande-moi ce que tu veux, j'ai adoré ce voyage."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "curious and inquisitive",
+            "text": "Merci. Pour commencer, où est-ce que tu as séjourné exactement pendant ce voyage ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "calm and informative",
+            "text": "Dans les Rocheuses, près de Banff. J'ai passé cinq jours dans un petit village de montagne."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "interested and engaged",
+            "text": "D'accord. J'aimerais également savoir quand tu es parti et combien de temps a duré le séjour."
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "warm and informative",
+            "text": "Je suis parti fin septembre, pendant une semaine. C'était la saison des couleurs d'automne."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "curious and thoughtful",
+            "text": "Ah, c'est intéressant. Puisque la région est très naturelle, est-ce qu'il vaut mieux y aller au printemps ou en automne ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "balanced and informative",
+            "text": "L'automne est magnifique, mais il y a beaucoup de touristes. Le printemps est plus calme et moins cher."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "polite and inquisitive",
+            "text": "Très bien, merci. Et comment est-ce que tu as voyagé : en avion, en train ou en voiture ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "calm and practical",
+            "text": "En avion jusqu'à Calgary, puis j'ai loué une voiture. C'était plus pratique pour visiter la région."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "interested and practical",
+            "text": "Ça me semble pratique ! Justement, est-ce qu'il y a des activités gratuites ou est-ce qu'il faut tout payer ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "informative and matter-of-fact",
+            "text": "Les randonnées sont gratuites, mais l'entrée du parc national et les activités coûtent cher."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "engaged and curious",
+            "text": "Je comprends mieux. Quels sites est-ce que tu as visités pendant ce séjour ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "enthusiastic and informative",
+            "text": "Le lac Louise, les sources chaudes et un glacier. J'ai aussi fait une croisière sur un lac."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "pleased and inquisitive",
+            "text": "C'est parfait ! Et quel type de logement est-ce que tu as choisi : hôtel, auberge ou location ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "reassuring and informative",
+            "text": "J'ai loué un petit chalet avec deux amis. C'était moins cher qu'un hôtel et très confortable."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "thoughtful and practical",
+            "text": "Je vois. Dans ce cas, est-ce qu'il faut réserver le logement à l'avance ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "calm and advisory",
+            "text": "Oui, surtout en été. Les chalets sont souvent complets deux mois avant."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "curious and engaged",
+            "text": "Très bien. Et pourquoi est-ce que tu conseilles cette région plutôt qu'une autre ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "enthusiastic and descriptive",
+            "text": "Parce que les paysages sont spectaculaires et qu'on peut voir des animaux sauvages. C'est vraiment dépaysant."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "interested and practical",
+            "text": "Ah, c'est intéressant. Dans ce cas, est-ce que tu me conseilles de louer une voiture sur place ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "helpful and cautionary",
+            "text": "Loue une voiture si tu veux être libre, mais fais attention aux routes de montagne. Et réserve tôt en été."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "curious and budget-conscious",
+            "text": "C'est noté. Et combien est-ce qu'il faut prévoir comme budget pour une semaine ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "calm and informative",
+            "text": "Compte environ mille euros par personne, transport compris. On peut dépenser moins en camping."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "grateful and warm",
+            "text": "Parfait, ça répond à toutes mes questions. Merci beaucoup pour ces informations, je vais y réfléchir et en parler à ma famille."
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "friendly and encouraging",
+            "text": "Avec plaisir ! Si tu y vas, tu me raconteras. Bonne journée !"
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "grateful and polite",
+            "text": "Merci encore, c'est très gentil. À bientôt !"
+        }
+    ]
+}

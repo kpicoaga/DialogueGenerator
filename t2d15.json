@@ -37,52 +37,52 @@
     },
     {
       "speaker": "Speaker 2",
-      "instructions": "informative and matter-of-fact",
+      "instructions": "calm and informative",
       "text": "Le parc ouvre à neuf heures et ferme à vingt-deux heures. Les dernières entrées sont à vingt-et-une heures."
     },
     {
       "speaker": "Speaker 1",
-      "instructions": "curious and thoughtful",
+      "instructions": "interested and engaged",
       "text": "Ah, c'est intéressant. Combien coûte le billet d'adulte et y a-t-il des réductions pour les étudiants ?"
     },
     {
       "speaker": "Speaker 2",
-      "instructions": "balanced and advisory",
-      "text": "Le billet coûte vingt-cinq euros par adult. Les étudiants paient la moitié, et les enfants moins de douze ans sont gratuits."
+      "instructions": "calm and informative",
+      "text": "Le billet coûte vingt-cinq euros par adulte. Les étudiants paient la moitié, et les enfants moins de douze ans sont gratuits."
     },
     {
       "speaker": "Speaker 1",
-      "instructions": "engaged and practical",
+      "instructions": "interested and engaged",
       "text": "Très bien, merci. Et où est-ce que les restaurants et les snack-bars se trouvent dans le parc ?"
     },
     {
       "speaker": "Speaker 2",
-      "instructions": "calm and practical",
+      "instructions": "calm and informative",
       "text": "Ils sont situés à l'entrée et au milieu du parc. Il y a un self-service avec des sandwichs et des salades."
     },
     {
       "speaker": "Speaker 1",
-      "instructions": "curious and engaged",
+      "instructions": "curious and inquisitive",
       "text": "Je vois. Quelles sont les activités principales et quels sont les animaux à voir ?"
     },
     {
       "speaker": "Speaker 2",
-      "instructions": "helpful and reassuring",
+      "instructions": "calm and informative",
       "text": "Le parc propose des spectacles de dauphins, des visites guidées et des expositions. On y trouve des pingouins, des ours et des requins."
     },
     {
       "speaker": "Speaker 1",
-      "instructions": "interested and inquisitive",
+      "instructions": "interested and engaged",
       "text": "Ah, c'est super. Pourquoi est-ce que c'est une bonne idée d'y aller en famille le week-end ?"
     },
     {
       "speaker": "Speaker 2",
-      "instructions": "informative and explanatory",
+      "instructions": "calm and informative",
       "text": "C'est une activité ludique pour les enfants, et les parents profitent du cadre. De plus, ça reste abordable pour une sortie."
     },
     {
       "speaker": "Speaker 1",
-      "instructions": "curious and thoughtful",
+      "instructions": "thoughtful and practical",
       "text": "Je comprends mieux. Et qui est-ce que je dois emmener, et est-ce qu'il y a des attractions pour les petits enfants ?"
     },
     {
@@ -92,33 +92,33 @@
     },
     {
       "speaker": "Speaker 1",
-      "instructions": "engaged and practical",
-      "text": "Justement, est-ce que les animaux sont visibles toute la journée, et à quelle heure sont les spectacles ?"
+      "instructions": "thoughtful and practical",
+      "text": "Justement, est-ce que les repas sont inclus dans le billet ou faut-il payer les restaurants à part ?"
     },
     {
       "speaker": "Speaker 2",
-      "instructions": "clear and reassuring",
-      "text": "Les animaux sont visibles de neuf heures à dix-huit heures, et les spectacles de dauphins ont lieu à midi et seize heures."
+      "instructions": "calm and informative",
+      "text": "Les repas ne sont pas inclus. Le parc propose des formules repas à prix réduit, achetées avec le billet."
     },
     {
       "speaker": "Speaker 1",
-      "instructions": "practical and curious",
+      "instructions": "thoughtful and practical",
       "text": "C'est noté. Et est-ce que le parc est facile d'accès en transport en commun ?"
     },
     {
       "speaker": "Speaker 2",
-      "instructions": "friendly and encouraging",
+      "instructions": "calm and informative",
       "text": "Oui, le bus numéro vingt-trois s'arrête à deux pas du parc. Le trajet dure environ quarante minutes depuis le centre-ville."
     },
     {
       "speaker": "Speaker 1",
-      "instructions": "informative and clear",
+      "instructions": "thoughtful and practical",
       "text": "Je vois. Et combien de temps faut-il pour y aller en voiture, et est-ce qu'il y a un parking ?"
     },
     {
       "speaker": "Speaker 2",
       "instructions": "calm and informative",
-      "text": "En voiture, le trajet prend une vingtaine de minutes. Le parking est gratuit pour les clients du parc."
+      "text": "En voiture, le trajet prend une vingtaine de minutes. Le parking est gratuit pour les visiteurs du parc."
     },
     {
       "speaker": "Speaker 1",
@@ -132,7 +132,7 @@
     },
     {
       "speaker": "Speaker 1",
-      "instructions": "grateful and polite",
+      "instructions": "grateful and warm",
       "text": "Merci encore pour votre aide, c'est très gentil. À bientôt, et bonne visite au parc !"
     }
   ]

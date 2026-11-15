@@ -1,0 +1,149 @@
+{
+  "title": "Se renseigner sur un appartement à louer auprès de l'ancien locataire",
+  "model": "google/gemini-3.8-flash-lite-tts",
+  "speakers": {
+    "Speaker 1": {
+      "voice": "Puck"
+    },
+    "Speaker 2": {
+      "voice": "Kore"
+    }
+  },
+  "turns": [
+    {
+      "speaker": "Speaker 1",
+      "instructions": "polite and friendly",
+      "text": "Bonjour ! Je visite cet appartement aujourd'hui et j'aimerais bien en savoir plus sur l'immeuble et le quartier. Est-ce que je pourrais vous poser quelques questions à ce sujet ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "welcoming and helpful",
+      "text": "Bonjour ! Bien sûr, avec plaisir. Je connais l'immeuble depuis trois ans. Posez-moi toutes vos questions."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "curious and inquisitive",
+      "text": "Merci. Pour commencer, comment sont les voisins et quelle est l'ambiance générale de l'immeuble ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Les voisins sont calmes et discrets. L'immeuble est familial, avec des gens de tous âges et pas mal d'enfants."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "D'accord. Et quand est-ce que l'appartement est disponible, et pour combien de temps ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Il est libre dès le mois prochain. Le bail est de douze mois, renouvelable, avec un préavis de deux mois."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Ah, c'est intéressant. Combien coûte le loyer mensuel et quelles sont les charges ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Le loyer est de neuf cents euros, charges comprises. L'eau et le chauffage sont inclus, mais pas l'électricité."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Très bien, merci. Et où est-ce que se trouvent les commerces et les transports ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Le métro est à cinq minutes à pied. Il y a un supermarché, une boulangerie et une pharmacie au coin de la rue."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "curious and inquisitive",
+      "text": "Je vois. Quels sont les équipements dans l'immeuble, y a-t-il un ascenseur ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Il y a un ascenseur et une cave. Chaque appartement a un balcon et un interphone."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "curious and inquisitive",
+      "text": "Je vois. Quelle est la surface de l'appartement et combien de pièces y a-t-il ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "L'appartement fait cinquante mètres carrés. Il y a une chambre, un salon et une cuisine équipée."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Ah, c'est super. Pourquoi est-ce que vous quittez cet appartement ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "J'ai trouvé un poste dans une autre ville, donc je dois déménager. L'appartement est vraiment agréable, je le regrette."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "thoughtful and practical",
+      "text": "Je comprends mieux. Et qui s'occupe de l'entretien de l'immeuble, y a-t-il un gardien ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Oui, un gardien habite au rez-de-chaussée. Il gère l'entretien, les poubelles et les petites réparations."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "thoughtful and practical",
+      "text": "Justement, est-ce que les animaux de compagnie sont acceptés dans l'immeuble ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Les petits animaux sont acceptés, mais il faut demander l'autorisation écrite au propriétaire."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "thoughtful and practical",
+      "text": "C'est noté. Et est-ce que le quartier est calme le soir ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Oui, le quartier est très calme le soir. Il y a un parc à proximité, et très peu de bars ou de discothèques."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "thoughtful and practical",
+      "text": "Je vois. Et quand est-ce que je peux visiter l'appartement à nouveau, si je veux réfléchir ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Vous pouvez revenir cette semaine. Le propriétaire est disponible, contactez-le pour fixer un autre rendez-vous."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "grateful and warm",
+      "text": "Parfait, ça répond à toutes mes questions. Merci beaucoup, je vais réfléchir et vous donner une réponse rapidement."
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "friendly and encouraging",
+      "text": "Avec plaisir ! J'espère que l'appartement vous plaira et que tout se passera bien. Bonne journée !"
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "grateful and warm",
+      "text": "Merci encore pour votre temps, c'est très gentil. À bientôt, et bonne continuation !"
+    }
+  ]
+}

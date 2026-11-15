@@ -1,0 +1,149 @@
+{
+  "title": "Se renseigner sur les solutions de garde d'enfants auprès d'un ami",
+  "model": "google/gemini-3.8-flash-lite-tts",
+  "speakers": {
+    "Speaker 1": {
+      "voice": "Puck"
+    },
+    "Speaker 2": {
+      "voice": "Kore"
+    }
+  },
+  "turns": [
+    {
+      "speaker": "Speaker 1",
+      "instructions": "polite and friendly",
+      "text": "Salut ! Ça fait plaisir de te voir. Comme tu vis ici avec ta famille, j'aurais besoin de tes conseils. Est-ce que je pourrais te poser quelques questions à ce sujet ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "welcoming and helpful",
+      "text": "Salut ! Bien sûr, avec plaisir. Tu cherches une solution de garde pour tes enfants, c'est ça ?"
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "curious and inquisitive",
+      "text": "Merci. Pour commencer, quels sont les types de garde disponibles ici ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Il y a la crèche, l'assistante maternelle et la garderie. Le choix dépend surtout de l'âge de l'enfant."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "D'accord. Et quand est-ce que les inscriptions se font, faut-il s'y prendre longtemps à l'avance ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Les inscriptions se font toute l'année, mais il faut s'y prendre six mois à l'avance pour la crèche."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Ah, c'est important. Combien coûte une place en crèche par mois ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Ça dépend des revenus, mais en moyenne quatre cents euros par mois. La garderie est un peu moins chère."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Très bien, merci. Et où est-ce que je peux trouver une assistante maternelle agréée ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Sur le site de la mairie, ou auprès du relais petite enfance. Ils donnent une liste des places disponibles."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "curious and inquisitive",
+      "text": "Je vois. Quelles sont les horaires de la crèche, jusqu'à quelle heure ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "La crèche ouvre de sept heures à dix-neuf heures. Ça laisse vraiment le temps pour le travail."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Ah, c'est pratique. Pourquoi est-ce qu'il faut choisir une assistante maternelle plutôt qu'une crèche ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "L'assistante maternelle garde l'enfant à domicile et s'adapte aux horaires. C'est plus flexible, mais il faut vérifier l'agrément."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "thoughtful and practical",
+      "text": "Je comprends mieux. Et qui peut me conseiller sur les démarches administratives ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Le relais petite enfance t'aide gratuitement. Ils expliquent les documents à fournir et les aides possibles."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "thoughtful and practical",
+      "text": "Justement, est-ce que je peux obtenir une aide financière de l'État ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Oui, il y a une aide de la CAF selon tes revenus. Le relais t'expliquera comment la demander."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "thoughtful and practical",
+      "text": "C'est noté. Et est-ce que les enfants mangent sur place, à la crèche ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Oui, les repas sont préparés sur place, avec des menus équilibrés. Il faut signaler les allergies au personnel."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "thoughtful and practical",
+      "text": "Je vois. Et combien de temps faut-il pour obtenir une place, en général ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Compte entre trois et six mois. Les listes d'attente sont longues, surtout dans les grandes villes."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "D'accord. Et est-ce que les horaires sont flexibles si je travaille tard le soir ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "La crèche ferme à dix-neuf heures, mais certaines garderies proposent des horaires étendus jusqu'à vingt heures."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "grateful and warm",
+      "text": "Parfait, ça répond à toutes mes questions. Merci beaucoup, je vais commencer les démarches cette semaine."
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "friendly and encouraging",
+      "text": "Avec plaisir ! Tiens-moi au courant, et bon courage pour les inscriptions. À bientôt !"
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "grateful and warm",
+      "text": "Merci encore, c'est très gentil. À bientôt, et merci pour ton aide !"
+    }
+  ]
+}
