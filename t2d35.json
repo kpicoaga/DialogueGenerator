@@ -1,0 +1,139 @@
+{
+  "title": "Se renseigner sur un jeu organisé par l'école de langues",
+  "model": "google/gemini-3.8-flash-lite-tts",
+  "speakers": {
+    "Speaker 1": {
+      "voice": "Puck"
+    },
+    "Speaker 2": {
+      "voice": "Kore"
+    }
+  },
+  "turns": [
+    {
+      "speaker": "Speaker 1",
+      "instructions": "polite and friendly",
+      "text": "Bonjour ! J'ai entendu parler du jeu que l'école organise pour les étudiants et j'aimerais en savoir davantage avant de m'inscrire. Est-ce que je pourrais vous poser quelques questions à ce sujet ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "welcoming and helpful",
+      "text": "Bonjour ! Bien sûr, avec plaisir. Ce jeu a beaucoup de succès chaque année. Qu'est-ce que vous voulez savoir ?"
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "curious and inquisitive",
+      "text": "Pour commencer, quel est le principe du jeu, et quelles sont les règles principales à respecter ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Les étudiants sont répartis en équipes de trois et résolvent des énigmes en français. Chaque bonne réponse rapporte des points."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "D'accord. Et pourquoi est-ce que l'école a décidé de créer ce jeu cette année ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Pour motiver les étudiants et les faire parler en dehors des cours. Beaucoup hésitent à s'exprimer, et le jeu les encourage à pratiquer sans stress."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Je vois. Combien coûte la participation, et est-ce que le prix comprend quelque chose en plus ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "L'inscription coûte dix euros par équipe et comprend un livret d'énigmes. L'équipe gagnante reçoit un bon d'achat de cent euros."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Ah, c'est bon à savoir. Et où est-ce que les épreuves ont lieu, dans les salles de cours ou ailleurs ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Dans les salles de cours le mardi, parfois au parc voisin. Les instructions sont toujours en français."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Très bien, merci. Comment est-ce que je peux inscrire mon équipe, en ligne ou auprès du secrétariat ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Il suffit de remplir un formulaire au secrétariat avant vendredi. Il faut aussi indiquer le nom de vos deux coéquipiers et leur niveau."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Je comprends mieux. Quand est-ce que la première épreuve commence, et combien de temps est-ce qu'elle dure ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "La première épreuve commence mardi prochain à dix-huit heures et dure une heure. Les suivantes ont lieu chaque mardi, à la même heure."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Ah, c'est intéressant. Et qui est-ce qui corrige les réponses, les enseignants ou des étudiants plus avancés ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Les enseignants corrigent, avec l'aide de deux étudiants du niveau avancé. Ils vérifient aussi la prononciation pendant les épreuves orales."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "thoughtful and practical",
+      "text": "Justement, si jamais un membre de mon équipe tombe malade, est-ce qu'on peut être remplacé ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Oui, un remplaçant est autorisé une seule fois, à condition de prévenir le secrétariat vingt-quatre heures avant. Sinon, l'équipe joue à deux."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "thoughtful and practical",
+      "text": "C'est noté. Et est-ce que les niveaux sont mélangés dans les équipes, ou faut-il des étudiants du même niveau ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Les équipes mixtes sont même préférées, c'est plus intéressant. Un débutant avec deux étudiants avancés gagne souvent grâce à l'entraide."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "thoughtful and practical",
+      "text": "D'accord. Si jamais je ne peux pas participer à une épreuve, est-ce que mon équipe perd tous les points ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Non, rassurez-vous, l'équipe garde ses points et peut continuer. Seule l'épreuve manquée ne rapporte rien, les autres comptent normalement."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "grateful and warm",
+      "text": "Parfait, ça répond à toutes mes questions. Merci beaucoup, je vais former mon équipe ce soir et m'inscrire demain."
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "welcoming and helpful",
+      "text": "Avec plaisir ! N'hésitez pas à passer si vous avez une question. Bon courage pour le jeu, et amusez-vous bien !"
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "grateful and warm",
+      "text": "Merci encore pour vos explications, c'était très clair. À bientôt et bonne semaine !"
+    }
+  ]
+}

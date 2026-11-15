@@ -1,0 +1,139 @@
+{
+  "title": "Se renseigner sur l'adoption d'un animal auprès d'un employé d'animalerie",
+  "model": "google/gemini-3.8-flash-lite-tts",
+  "speakers": {
+    "Speaker 1": {
+      "voice": "Puck"
+    },
+    "Speaker 2": {
+      "voice": "Kore"
+    }
+  },
+  "turns": [
+    {
+      "speaker": "Speaker 1",
+      "instructions": "polite and friendly",
+      "text": "Bonjour ! Je vis seul depuis quelques mois et j'aimerais adopter un petit animal pour me tenir compagnie. Est-ce que je pourrais vous poser quelques questions à ce sujet ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "welcoming and helpful",
+      "text": "Bonjour ! Bien sûr, avec plaisir. Adopter un animal pour rompre la solitude est une excellente idée. Que souhaitez-vous savoir ?"
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "curious and inquisitive",
+      "text": "Pour commencer, quels animaux proposez-vous en ce moment, et lesquels sont les plus faciles à garder ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Nous avons des chats, des chiens, des hamsters, des poissons et des lapins. Pour un débutant qui vit seul, je conseille plutôt un chat."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "D'accord. Pourquoi est-ce qu'un chat conviendrait mieux qu'un chien à quelqu'un qui travaille toute la journée ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Un chat est plus indépendant et supporte bien la solitude. Un chien doit sortir plusieurs fois par jour, ce qui est difficile à temps plein."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Je vois. Combien coûte l'adoption d'un chaton, et quels sont les frais chaque mois ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Le chaton coûte environ cent cinquante euros, vacciné et identifié. Comptez ensuite trente euros par mois pour la nourriture et la litière."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Ah, c'est bon à savoir. Et où est-ce que je pourrais installer son panier et sa litière dans un petit appartement ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Placez la litière dans un endroit calme et le panier près d'une fenêtre. Prenez aussi un arbre à chat pour qu'il grimpe."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Très bien, merci. Comment est-ce que je dois préparer mon appartement avant son arrivée ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Sécurisez les fenêtres et rangez les produits ménagers. Prévoyez un griffoir, deux gamelles, une litière fermée et une boîte de transport."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Je comprends mieux. Quand est-ce que je devrais l'adopter, et quel âge faut-il choisir de préférence ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Un chaton de deux ou trois mois s'habitue vite à un nouveau foyer. Le printemps est une bonne période, il y a plus de choix."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Ah, c'est intéressant. Et qui est-ce qui s'occuperait de mon animal si je m'absente quelques jours ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Vous pouvez le confier à une pension ou à une personne de confiance. Nous proposons aussi un service de garde le week-end."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "thoughtful and practical",
+      "text": "Justement, si jamais mon chat tombe malade la nuit, qui dois-je contacter en urgence ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Nous travaillons avec une clinique ouverte vingt-quatre heures sur vingt-quatre. Le numéro figure sur votre contrat d'adoption."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "thoughtful and practical",
+      "text": "C'est noté. Et est-ce que l'adoption reste possible si je pars en vacances deux semaines par an ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Oui, mais il faut une solution de garde. La pension coûte quinze euros par jour, sinon un proche peut passer chaque jour."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "thoughtful and practical",
+      "text": "D'accord. Si jamais je change d'avis après quelques semaines, est-ce que je peux vous ramener l'animal ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Oui, dans les trente jours et sans frais, mais il faut respecter le contrat. Nous préférons en parler avant, pour éviter un abandon."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "grateful and warm",
+      "text": "Parfait, ça répond à toutes mes questions. Merci beaucoup, je vais réfléchir ce week-end et revenir avec ma décision."
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "welcoming and helpful",
+      "text": "Avec plaisir ! N'hésitez pas à revenir, nous vous montrerons les chats disponibles. Bonne journée !"
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "grateful and warm",
+      "text": "Merci encore pour vos conseils, c'était très gentil. À bientôt et bonne journée !"
+    }
+  ]
+}

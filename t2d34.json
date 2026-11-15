@@ -1,0 +1,139 @@
+{
+  "title": "Se renseigner sur les transports publics de Montréal auprès d'un collègue",
+  "model": "google/gemini-3.8-flash-lite-tts",
+  "speakers": {
+    "Speaker 1": {
+      "voice": "Puck"
+    },
+    "Speaker 2": {
+      "voice": "Kore"
+    }
+  },
+  "turns": [
+    {
+      "speaker": "Speaker 1",
+      "instructions": "polite and friendly",
+      "text": "Salut ! Je pars une semaine à Montréal pour le travail et tu connais bien la ville. J'aurais besoin de tes conseils sur les transports. Est-ce que je pourrais te poser quelques questions ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "welcoming and helpful",
+      "text": "Salut ! Avec plaisir, j'ai vécu trois ans là-bas. Le métro est simple et pratique. Qu'est-ce que tu veux savoir ?"
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "curious and inquisitive",
+      "text": "Pour commencer, quels moyens de transport est-ce que je peux utiliser entre le centre et mon bureau en banlieue ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Le métro puis le train de banlieue, c'est le plus rapide. Il y a aussi des bus express, mais ils sont lents."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "D'accord. Pourquoi est-ce que tu me conseilles le train plutôt que le bus, et combien de temps dure le trajet ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Le train est plus régulier et beaucoup plus rapide aux heures de pointe. Compte quarante minutes environ avec la correspondance."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Je vois. Combien coûte un titre de transport, et est-ce qu'il existe un abonnement pour une semaine ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Un ticket coûte trois dollars cinquante, et la carte hebdomadaire vingt-neuf dollars. Elle est valable partout."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Ah, c'est bon à savoir. Et où est-ce que je peux acheter cette carte, dans une station ou dans un kiosque ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Dans n'importe quelle station de métro, aux bornes automatiques. On peut aussi l'acheter sur l'application."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Très bien, merci. Comment est-ce que je dois faire si je ne comprends pas le plan, il y a des employés dans les stations ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Oui, il y a toujours quelqu'un au guichet. Chaque ligne a une couleur, et les écrans indiquent la direction."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Je comprends mieux. Quand est-ce que le métro ferme le soir, et est-ce qu'il y a des bus de nuit après ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Le métro s'arrête vers une heure, sauf le samedi. Ensuite, des bus de nuit circulent jusqu'à cinq heures."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Ah, c'est intéressant. Et qui est-ce qui gère les transports, une seule société ou plusieurs compagnies privées ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "C'est la société de transport de Montréal qui gère le métro et les bus. Les trains dépendent d'une autre société."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "thoughtful and practical",
+      "text": "Justement, si jamais mon train est supprimé, est-ce qu'il y a une solution de remplacement prévue ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Oui, la compagnie met en place des navettes. Sinon, prends le bus rapide qui suit le même trajet au centre."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "thoughtful and practical",
+      "text": "C'est noté. Et est-ce que je peux utiliser la carte depuis le taxi ou seulement dans les transports en commun ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Seulement dans les transports en commun. Pour les taxis, prends l'application de réservation, c'est moins cher."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "thoughtful and practical",
+      "text": "D'accord. Si jamais je reste un jour de plus, est-ce que la carte est prolongée ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Non, il faut rajouter du crédit à une borne ou sur l'application. Ça prend deux minutes et la carte reste valable."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "grateful and warm",
+      "text": "Parfait, ça répond à toutes mes questions. Merci beaucoup, je vais réserver un logement près d'une ligne de métro."
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "welcoming and helpful",
+      "text": "Très bon choix ! N'hésite pas à m'écrire si tu as un doute sur place. Bon séjour à Montréal !"
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "grateful and warm",
+      "text": "Merci encore pour ton aide, c'est vraiment gentil. À bientôt et à la semaine prochaine !"
+    }
+  ]
+}

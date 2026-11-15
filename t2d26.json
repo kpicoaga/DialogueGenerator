@@ -1,0 +1,139 @@
+{
+  "title": "Se renseigner sur un repas organisé entre inconnus",
+  "model": "google/gemini-3.8-flash-lite-tts",
+  "speakers": {
+    "Speaker 1": {
+      "voice": "Puck"
+    },
+    "Speaker 2": {
+      "voice": "Kore"
+    }
+  },
+  "turns": [
+    {
+      "speaker": "Speaker 1",
+      "instructions": "polite and friendly",
+      "text": "Salut ! Tu m'as dit que tu avais participé à un repas entre des personnes qui ne se connaissaient pas. Ça m'intéresse. Est-ce que je pourrais te poser quelques questions à ce sujet ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "welcoming and helpful",
+      "text": "Salut ! Oui, c'était il y a deux semaines, chez une amie qui voulait mélanger ses groupes d'amis. Avec plaisir, vas-y."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "curious and inquisitive",
+      "text": "D'accord. Et où est-ce que ce repas a eu lieu, dans un restaurant ou chez quelqu'un ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Dans un petit restaurant du centre-ville, une table ronde pour huit personnes. Le gérant avait mis des bougies, c'était convivial."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Je vois. Et quand est-ce que tu as réservé, longtemps à l'avance ou au dernier moment ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "J'ai réservé trois semaines avant en appelant le restaurant. Le samedi soir, il n'y a plus de table pour huit."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Très bien, merci. Mais pourquoi est-ce que tu as choisi ce restaurant plutôt qu'un autre ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Parce qu'il propose des plats à partager au centre de la table, ce qui oblige les gens à discuter. On réserve une grande table."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Ah, c'est bon à savoir. Et comment tu as fait pour que tout le monde se parle, avec des inconnus ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "La plupart avaient ton âge et des centres d'intérêt proches. L'organisatrice avait préparé un petit jeu pour briser la glace."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Je comprends mieux. Et combien est-ce que tu as payé, est-ce que le prix comprenait tout ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Trente-cinq euros par personne, entrée, plat et dessert compris. Les boissons étaient en supplément, environ dix euros."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "C'est noté. Et qui est-ce qui t'avait invité, est-ce que tu connaissais d'autres personnes ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Une amie qui fêtait son départ pour Montréal. Sur huit, je ne connaissais que deux personnes, c'était parfait pour rencontrer du monde."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Ah, c'est intéressant. Et quelle a été l'ambiance, est-ce que les gens ont gardé contact ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Très détendue : à minuit, tout le monde s'échangeait encore ses numéros. On s'est même revus le mois suivant."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "thoughtful and practical",
+      "text": "Justement, si jamais je voulais organiser le même genre de dîner, quels conseils tu aurais pour choisir les invités ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Choisis des personnes d'horizons différents mais qui aiment discuter. Évite de mettre plusieurs amis proches ensemble."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "thoughtful and practical",
+      "text": "C'est noté. Et est-ce que ça marche aussi pour huit personnes qui ne se connaissent pas du tout ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Oui, à condition que l'hôte présente chacun en une phrase. Notre amie l'a fait au début, ça a tout débloqué."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "thoughtful and practical",
+      "text": "D'accord. Si jamais quelqu'un se désiste au dernier moment, comment tu gères le paiement de sa part ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "On partage la somme entre les autres, ça reste raisonnable. Sinon, l'organisateur avance et se fait rembourser ensuite."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "grateful and warm",
+      "text": "Parfait, ça répond à toutes mes questions. Merci beaucoup, je vais en parler à mes amis et peut-être organiser un dîner."
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "friendly and encouraging",
+      "text": "Avec plaisir ! Tiens-moi au courant si tu organises quelque chose, je viendrai volontiers. Bonne journée et à bientôt !"
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "grateful and warm",
+      "text": "Merci encore pour tous tes conseils, c'était très sympa. À bientôt et bonne journée !"
+    }
+  ]
+}

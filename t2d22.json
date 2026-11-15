@@ -1,0 +1,139 @@
+{
+  "title": "Se renseigner sur une formation professionnelle pour changer de métier",
+  "model": "google/gemini-3.8-flash-lite-tts",
+  "speakers": {
+    "Speaker 1": {
+      "voice": "Puck"
+    },
+    "Speaker 2": {
+      "voice": "Kore"
+    }
+  },
+  "turns": [
+    {
+      "speaker": "Speaker 1",
+      "instructions": "polite and friendly",
+      "text": "Bonjour ! J'ai travaillé dix ans dans la vente, mais je voudrais changer de métier et me former en pâtisserie. Est-ce que je pourrais vous poser quelques questions sur vos formations ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "welcoming and helpful",
+      "text": "Bonjour ! Bien sûr. Nous proposons justement une formation de pâtisserie reconnue, ouverte aux adultes en reconversion. Que voulez-vous savoir ?"
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "curious and inquisitive",
+      "text": "Merci ! Pour commencer, quel est le programme exact de cette formation, et quels diplômes obtient-on à la fin ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Le programme couvre les viennoiseries, les entremets et le travail du chocolat. Vous préparez un diplôme reconnu par les employeurs."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "D'accord. Pourquoi est-ce que cette formation serait plus adaptée qu'un cours du soir pour quelqu'un de mon âge ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Parce qu'elle inclut trois cent vingt heures de stage, ce qui compte à l'embauche. Un cours du soir ne donne pas d'expérience."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Je vois. Combien est-ce que coûte la formation, et est-ce qu'il existe des aides pour les adultes ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "La formation coûte trois mille deux cents dollars, matériel compris. Il existe un prêt sans intérêt, et nous vous aidons à le demander."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Ah, c'est bon à savoir. Et où est-ce que les cours ont lieu, sur le campus principal ou ailleurs ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "La théorie se fait dans notre centre, à dix minutes de la gare. Les ateliers pratiques ont lieu au sous-sol."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Très bien, merci. Comment est-ce que je dois procéder pour m'inscrire, et y a-t-il un test d'entrée ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Il faut remplir un formulaire en ligne et passer une entrevue. Aucun diplôme n'est exigé, mais une expérience en cuisine aide."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Je comprends mieux. Quand est-ce que la prochaine session commence, et combien de temps dure-t-elle ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "La prochaine session commence en septembre et dure huit mois, à temps plein. Les cours ont lieu en semaine."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "C'est noté. Et qui est-ce qui donne les cours pratiques, des chefs en activité ou d'anciens professeurs ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Les ateliers sont animés par des chefs pâtissiers qui travaillent encore en restaurant. Ils partagent aussi leurs contacts avec les étudiants."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "thoughtful and practical",
+      "text": "Justement, si jamais je dois continuer à travailler en parallèle, est-ce que la formation peut se faire à temps partiel ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Oui, nous proposons une version à temps partiel sur quinze mois, avec les cours le soir. Le coût est identique."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "thoughtful and practical",
+      "text": "C'est noté, merci. Et si je rate un module, est-ce que je peux le repasser gratuitement ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Vous pouvez repasser une évaluation gratuitement. Si le module doit être refait, il y a cent dollars de frais."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "thoughtful and practical",
+      "text": "D'accord. Si jamais je décroche un emploi avant la fin, est-ce que je peux arrêter et récupérer mon argent ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Oui, le remboursement est calculé au prorata des heures suivies. Il suffit d'envoyer une lettre motivée à l'administration."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "grateful and warm",
+      "text": "Parfait, ça répond à toutes mes questions. Merci beaucoup, je vais remplir le formulaire avant septembre."
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "friendly and encouraging",
+      "text": "Avec plaisir ! N'hésitez pas à demander un rendez-vous avec un conseiller pour votre projet. Bonne journée !"
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "grateful and warm",
+      "text": "Merci encore pour votre aide, vos conseils m'ont vraiment donné envie de commencer. À bientôt !"
+    }
+  ]
+}

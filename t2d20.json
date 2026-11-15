@@ -1,0 +1,139 @@
+{
+  "title": "Demander conseil à un voisin pour découvrir la ville en famille",
+  "model": "google/gemini-3.8-flash-lite-tts",
+  "speakers": {
+    "Speaker 1": {
+      "voice": "Puck"
+    },
+    "Speaker 2": {
+      "voice": "Kore"
+    }
+  },
+  "turns": [
+    {
+      "speaker": "Speaker 1",
+      "instructions": "polite and friendly",
+      "text": "Bonjour ! Je suis ton nouveau voisin. Nous venons d'arriver avec nos deux enfants et nous voulons visiter le quartier ce week-end. Est-ce que je pourrais te poser quelques questions ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "welcoming and helpful",
+      "text": "Bonjour, bienvenue ! Avec plaisir, c'est agréable d'avoir enfin de nouveaux voisins. Qu'est-ce que tu veux savoir exactement ?"
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "curious and inquisitive",
+      "text": "Merci beaucoup ! Pour commencer, quels endroits est-ce que tu nous conseillerais de visiter en famille ce week-end ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Je te conseille le parc de la Tête d'Or le samedi matin, puis le Vieux Lyon l'après-midi, avec ses traboules."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "D'accord. Pourquoi est-ce que tu me conseilles le samedi matin plutôt que l'après-midi pour le parc ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Parce qu'il y a beaucoup moins de monde et que les enfants profitent mieux des jeux. L'après-midi, le parking est complet."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Je vois. Combien est-ce que ça coûterait pour quatre personnes, avec les entrées et les transports ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Le parc est gratuit, mais compte neuf euros par adulte pour le musée des Confluences. Le métro coûte deux euros dix."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Ah, c'est bon à savoir. Et où est-ce qu'on peut acheter les tickets, avec les enfants ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Aux bornes automatiques de chaque station, ou dans le bus. Les enfants de moins de dix ans ne paient rien."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Très bien, merci. Comment est-ce qu'on rejoint le Vieux Lyon depuis chez nous, sans prendre la voiture ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Prends la ligne D jusqu'à Vieux Lyon, puis le funiculaire pour Fourvière. Ça prend vingt minutes et c'est simple."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Je comprends mieux. Quand est-ce que le musée est ouvert, surtout le dimanche ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Il ouvre de dix heures à dix-huit heures, sauf le lundi. Le dimanche, l'entrée est gratuite pour les moins de dix-huit ans."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "C'est noté. Et qui est-ce qui pourrait nous guider dans le Vieux Lyon, un guide ou une application ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Il y a des visites guidées gratuites à quatorze heures, devant l'office du tourisme. Sinon, l'application de la ville propose un parcours enfants."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "thoughtful and practical",
+      "text": "Justement, si jamais il pleut samedi, qu'est-ce qu'on pourrait faire avec les enfants à l'intérieur ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Le musée des Confluences est parfait pour ça, avec des expositions très visuelles. Il y a aussi la piscine municipale à côté."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "thoughtful and practical",
+      "text": "C'est noté, merci. Et si on veut manger le midi, est-ce qu'il y a des restaurants pas trop chers ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Oui, un marché couvert près du parc sert des plats à dix euros. On peut aussi pique-niquer au bord du lac."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "thoughtful and practical",
+      "text": "D'accord. Si jamais on reste tout le week-end, est-ce qu'il y a des hébergements pas chers ici ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Il y a une auberge près de la gare, trente euros la nuit. Un appartement pour la famille coûte deux cents euros."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "grateful and warm",
+      "text": "Parfait, ça répond à toutes mes questions. Merci beaucoup, je vais préparer notre week-end et je te raconterai comment ça s'est passé."
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "friendly and encouraging",
+      "text": "Avec plaisir ! N'hésite pas à passer me voir si tu as des questions. Bon week-end en famille !"
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "grateful and warm",
+      "text": "Merci encore pour tous ces conseils, c'était vraiment gentil. À bientôt et bonne journée !"
+    }
+  ]
+}

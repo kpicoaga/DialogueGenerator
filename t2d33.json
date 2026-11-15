@@ -1,0 +1,139 @@
+{
+  "title": "Chercher des idées de spectacles auprès d'un ami pour un article",
+  "model": "google/gemini-3.8-flash-lite-tts",
+  "speakers": {
+    "Speaker 1": {
+      "voice": "Puck"
+    },
+    "Speaker 2": {
+      "voice": "Kore"
+    }
+  },
+  "turns": [
+    {
+      "speaker": "Speaker 1",
+      "instructions": "polite and friendly",
+      "text": "Salut ! Comme tu vas souvent au spectacle, je dois écrire un article pour notre bulletin culturel et j'aurais besoin de tes idées. Est-ce que je pourrais te poser quelques questions ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "welcoming and helpful",
+      "text": "Salut ! Avec plaisir, j'adore en parler. Je vais même au théâtre toutes les trois semaines. Dis-moi ce qui t'intéresse."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "curious and inquisitive",
+      "text": "Pour commencer, quels spectacles est-ce que tu as vus ces derniers mois, et lesquels t'ont le plus marqué ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "J'ai vu une pièce de Molière, un concert de jazz et une comédie musicale. C'est la comédie musicale qui m'a le plus impressionné."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "D'accord. Et pourquoi est-ce que cette comédie musicale t'a autant plu, par rapport aux autres ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Parce que les chanteurs étaient excellents et l'histoire parlait d'un sujet actuel. On avait l'impression d'y participer."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Je vois. Où est-ce que tu l'as vue, dans un grand théâtre du centre ou plutôt dans une petite salle ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Au théâtre municipal, une salle de six cents places près de la gare. C'est facile d'accès et l'acoustique est bonne."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Ah, c'est bon à savoir. Combien coûte une place en général, et est-ce qu'il y a un tarif pour les étudiants ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Entre vingt et quarante euros selon la place. Les étudiants paient douze euros, et les moins de seize ans entrent parfois gratuitement."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Très bien, merci. Quand est-ce que les spectacles ont lieu, plutôt en semaine ou le week-end ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Surtout du jeudi au samedi soir, à vingt heures, avec une séance le dimanche après-midi. Le jeudi, c'est moins cher."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Je comprends mieux. Comment est-ce qu'on réserve, en ligne, par téléphone ou directement au guichet ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Les trois marchent, mais je te conseille le site internet : on choisit sa place et on reçoit le billet par mail."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Ah, c'est pratique. Et qui est-ce que je pourrais interviewer pour enrichir mon article, un comédien ou le directeur de la salle ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Le directeur est très ouvert, il accepte souvent les interviews. La troupe répète le mardi, tu pourrais passer ensuite."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "thoughtful and practical",
+      "text": "Justement, si jamais je n'obtiens pas d'interview, est-ce que tu as gardé le programme du spectacle ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Oui, avec les photos et le CV des artistes. Je te l'envoie ce soir, tu trouveras des informations utiles."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "thoughtful and practical",
+      "text": "C'est noté, merci beaucoup. Et est-ce qu'il y a un autre spectacle au programme ce mois-ci qui vaut le déplacement ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Oui, une pièce contemporaine sur l'immigration, jouée par une troupe québécoise. C'est émouvant et ça ferait un bon sujet."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "thoughtful and practical",
+      "text": "D'accord. Si jamais mon article est publié, est-ce que tu accepterais de le relire avant l'envoi ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Bien sûr, avec plaisir ! Envoie-moi le texte deux jours avant, je corrigerai les fautes et les noms propres."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "grateful and warm",
+      "text": "Parfait, ça répond à toutes mes questions. Merci beaucoup, je vais commencer l'article ce soir avec toutes ces idées."
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "welcoming and helpful",
+      "text": "Avec plaisir ! Tiens-moi au courant, j'ai hâte de lire ton article dans le bulletin."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "grateful and warm",
+      "text": "Merci encore pour ton aide, c'est vraiment gentil. À bientôt et bonne continuation !"
+    }
+  ]
+}

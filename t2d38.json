@@ -1,0 +1,139 @@
+{
+  "title": "Demander des précisions sur un appartement à acheter auprès d'un agent immobilier",
+  "model": "google/gemini-3.8-flash-lite-tts",
+  "speakers": {
+    "Speaker 1": {
+      "voice": "Puck"
+    },
+    "Speaker 2": {
+      "voice": "Kore"
+    }
+  },
+  "turns": [
+    {
+      "speaker": "Speaker 1",
+      "instructions": "polite and friendly",
+      "text": "Bonjour ! J'ai vu votre annonce pour l'appartement du centre-ville et cette offre m'intéresse beaucoup. Avant de visiter, j'aimerais quelques précisions. Est-ce que je pourrais vous poser quelques questions ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "welcoming and helpful",
+      "text": "Bonjour ! Bien sûr, c'est un très beau bien, lumineux et bien situé. Je réponds volontiers à vos questions."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "curious and inquisitive",
+      "text": "Pour commencer, quelle est la superficie exacte de l'appartement, et combien de pièces compte-t-il ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Soixante-huit mètres carrés, avec deux chambres, un salon et une cuisine ouverte. Il y a aussi un balcon de six mètres carrés."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "D'accord. Et pourquoi est-ce que le propriétaire vend maintenant, est-ce qu'il y a un problème particulier ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Il part à l'étranger pour son travail, il n'y a aucun problème. L'appartement est en très bon état, seule la salle de bain est ancienne."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Je vois. Combien coûte l'appartement, et est-ce que les charges sont comprises dans le prix affiché ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Deux cent quarante mille euros, hors charges. Comptez quatre-vingts euros par mois de charges et mille deux cents euros de taxe foncière."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Ah, c'est bon à savoir. Et où est-ce que l'immeuble se trouve exactement, dans quel quartier ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Au cœur du quartier Saint-Paul, à deux pas des commerces. C'est un quartier calme et très recherché par les familles."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Très bien, merci. Comment est-ce que je peux organiser une visite, et quels documents faut-il préparer pour acheter ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Je vous propose une visite jeudi à dix-sept heures. Préparez une pièce d'identité et un accord de prêt de votre banque."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Je comprends mieux. Quand est-ce que l'appartement serait disponible, et est-ce que les propriétaires actuels sont pressés ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Il est libre au premier octobre. Les propriétaires ne sont pas pressés, mais ils refuseront une offre trop basse."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Ah, c'est intéressant. Et qui est-ce qui gère l'immeuble, un syndic professionnel ou les copropriétaires ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Un syndic professionnel, très réactif. L'immeuble a huit appartements et les travaux de toiture ont été faits cette année."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "thoughtful and practical",
+      "text": "Justement, si jamais je veux faire baisser le prix, est-ce que le propriétaire accepterait de négocier un peu ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Une négociation de cinq à dix mille euros est possible, surtout si vous achetez sans condition de prêt. Au-delà, il refusera."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "thoughtful and practical",
+      "text": "C'est noté. Et est-ce qu'il y a une école et une pharmacie près de l'immeuble, pour une famille ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Oui, une école primaire à trois cents mètres et une pharmacie en bas de la rue. Il y a aussi un marché tous les samedis."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "thoughtful and practical",
+      "text": "D'accord. Si jamais ma banque refuse le prêt, est-ce que je récupère l'acompte que j'aurais versé ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Oui, si le refus est écrit et que la condition suspensive est dans le contrat. Sans cette clause, l'acompte serait perdu."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "grateful and warm",
+      "text": "Parfait, ça répond à toutes mes questions. Merci beaucoup, je vais réfléchir et confirmer la visite de jeudi."
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "welcoming and helpful",
+      "text": "Avec plaisir ! N'hésitez pas à m'appeler si vous avez d'autres questions. À jeudi et bonne journée !"
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "grateful and warm",
+      "text": "Merci encore pour toutes ces précisions, c'était très clair. À jeudi et bonne journée !"
+    }
+  ]
+}

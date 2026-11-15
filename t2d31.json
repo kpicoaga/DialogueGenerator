@@ -1,0 +1,139 @@
+{
+  "title": "Demander conseil à son professeur pour progresser rapidement en français",
+  "model": "google/gemini-3.8-flash-lite-tts",
+  "speakers": {
+    "Speaker 1": {
+      "voice": "Puck"
+    },
+    "Speaker 2": {
+      "voice": "Kore"
+    }
+  },
+  "turns": [
+    {
+      "speaker": "Speaker 1",
+      "instructions": "polite and friendly",
+      "text": "Bonjour ! Je suis vos cours depuis trois mois et j'aimerais progresser plus vite, surtout à l'oral. Est-ce que je pourrais vous poser quelques questions sur les méthodes qui marchent vraiment ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "welcoming and helpful",
+      "text": "Bonjour ! Bien sûr, c'est une très bonne question. Progresser vite dépend surtout de la régularité. Qu'est-ce que vous voulez savoir ?"
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "curious and inquisitive",
+      "text": "Pour commencer, quels exercices est-ce que vous conseillez pour améliorer la prononciation et la fluidité à l'oral ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "La répétition à voix haute et les enregistrements de vous-même. Lisez un texte court chaque jour et écoutez-vous."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "D'accord. Et pourquoi est-ce que l'écoute est si importante, même quand je ne comprends pas tout ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Parce que l'oreille apprend les rythmes avant la grammaire. Vingt minutes de podcast par jour changent la compréhension en quelques semaines."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Je vois. Combien de temps est-ce que je devrais travailler chaque jour, et est-ce que le week-end compte aussi ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Trente minutes par jour suffisent, à condition d'être régulier. Le week-end, privilégiez une activité plaisante : un film ou une série."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Ah, c'est bon à savoir. Et où est-ce que je peux pratiquer l'oral en dehors des cours, sans payer trop cher ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "À la médiathèque, il y a un café des langues gratuit le jeudi soir. Des associations proposent aussi des échanges."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Très bien, merci. Comment est-ce que je dois organiser mes révisions pour ne pas tout oublier ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Relisez vos notes le soir même, puis trois jours après. Notez cinq mots nouveaux par jour et réutilisez-les à l'oral."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Je comprends mieux. Quand est-ce que je saurai que je progresse vraiment, et à quels signes ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Quand vous comprendrez une série sans sous-titres ou hésiterez moins. Les étudiants sentent un vrai changement après trois mois."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Ah, c'est intéressant. Et qui est-ce que je pourrais rencontrer pour parler régulièrement ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Un autre étudiant du même niveau est idéal, vous progresserez ensemble sans pression. Je peux vous mettre en contact avec quelqu'un."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "thoughtful and practical",
+      "text": "Justement, si jamais je n'ai pas le temps de faire tous les exercices, lesquels est-ce que je dois garder en priorité ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Gardez l'écoute et la production orale, ce sont les plus utiles. L'écrit peut attendre le week-end sans problème."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "thoughtful and practical",
+      "text": "C'est noté. Et est-ce que je peux passer l'examen sans avoir suivi tous les cours, avec seulement du travail personnel ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Oui, l'examen est ouvert à tous, quel que soit le nombre de cours. Mais je conseille un cours par semaine pour l'oral."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "thoughtful and practical",
+      "text": "D'accord. Si jamais je bloque sur la grammaire, est-ce que je peux vous poser une question entre deux cours ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Bien sûr, par mail ou à la fin du cours. J'ai aussi une permanence le mardi, de dix-sept à dix-huit heures."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "grateful and warm",
+      "text": "Parfait, ça répond à toutes mes questions. Merci beaucoup, je vais suivre vos conseils dès cette semaine."
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "welcoming and helpful",
+      "text": "Avec plaisir ! L'important, c'est de rester régulier et de ne pas avoir peur de faire des erreurs. Bon courage !"
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "grateful and warm",
+      "text": "Merci encore pour vos conseils, c'était très encourageant. À bientôt et bonne semaine !"
+    }
+  ]
+}

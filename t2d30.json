@@ -1,0 +1,139 @@
+{
+  "title": "Se renseigner sur une activité artistique au centre culturel",
+  "model": "google/gemini-3.8-flash-lite-tts",
+  "speakers": {
+    "Speaker 1": {
+      "voice": "Puck"
+    },
+    "Speaker 2": {
+      "voice": "Kore"
+    }
+  },
+  "turns": [
+    {
+      "speaker": "Speaker 1",
+      "instructions": "polite and friendly",
+      "text": "Bonjour ! Je viens d'emménager dans le quartier et je souhaiterais m'inscrire à une activité artistique. Est-ce que je pourrais vous poser quelques questions sur les cours proposés cette année ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "welcoming and helpful",
+      "text": "Bonjour ! Bien sûr, avec plaisir. Nous proposons de la musique, du dessin, du théâtre et de la danse. Que souhaitez-vous savoir ?"
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "curious and inquisitive",
+      "text": "Pour commencer, quels cours sont disponibles pour les débutants, et lequel me conseilleriez-vous pour commencer ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Nous avons un atelier de dessin et un cours de théâtre pour débutants. Je conseille le dessin, plus facile pour commencer."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "D'accord. Et pourquoi est-ce que le dessin est plus adapté que la musique pour une première inscription ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Parce qu'on peut commencer sans acheter d'instrument. En musique, il faut louer un piano dès le premier mois."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Je vois. Combien coûte un cours à l'année, et est-ce qu'il existe un tarif pour les habitants du quartier ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Deux cent vingt euros pour l'année, matériel compris. Les habitants du quartier paient cent quatre-vingts euros et les étudiants cent cinquante."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Ah, c'est bon à savoir. Et où est-ce que les ateliers ont lieu, dans le bâtiment principal ou dans une annexe ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Au premier étage du bâtiment principal, dans la salle des arts, celle aux grandes fenêtres."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Très bien, merci. Comment est-ce qu'on s'inscrit, il faut remplir un dossier ou réserver directement en ligne ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Un formulaire à l'accueil, ou directement sur notre site. Il faut une photo et un justificatif pour le tarif réduit."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Je comprends mieux. Quand est-ce que les cours commencent, et combien de séances y a-t-il par semaine ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "La rentrée a lieu le quinze septembre, avec une séance de deux heures par semaine, le mercredi soir."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Ah, c'est pratique. Et qui est-ce qui anime l'atelier de dessin, un professeur des beaux-arts ou une artiste locale ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "C'est une artiste locale qui expose dans la région. Elle enseigne ici depuis six ans, par groupes de douze."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "thoughtful and practical",
+      "text": "Justement, si jamais le mercredi ne m'arrange pas, est-ce qu'il y a une autre séance possible ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Oui, une séance le samedi matin si le groupe n'est pas complet. Demandez-le à l'inscription, les places partent vite."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "thoughtful and practical",
+      "text": "C'est noté. Et est-ce que le matériel est fourni, ou faut-il apporter ses propres pinceaux et ses feuilles ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Tout est fourni pour le dessin : papier, crayons et peinture. Pour la musique et la danse, il faut prévoir des chaussures adaptées."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "thoughtful and practical",
+      "text": "D'accord. Si jamais je dois arrêter en cours d'année, est-ce que je récupère une partie du prix ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Un remboursement est possible avant novembre, sur présentation d'un justificatif. Après, le prix reste dû pour l'année entière."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "grateful and warm",
+      "text": "Parfait, ça répond à toutes mes questions. Merci beaucoup, je vais m'inscrire cet après-midi au cours de dessin."
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "welcoming and helpful",
+      "text": "Avec plaisir ! Nous serons ravis de vous accueillir. N'oubliez pas la photo et le justificatif de domicile. Bonne journée !"
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "grateful and warm",
+      "text": "Merci encore pour toutes ces informations, c'était très clair. À bientôt et bonne journée !"
+    }
+  ]
+}

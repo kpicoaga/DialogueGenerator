@@ -1,0 +1,139 @@
+{
+  "title": "Se renseigner sur les quartiers à visiter à pied auprès d'un ami",
+  "model": "google/gemini-3.8-flash-lite-tts",
+  "speakers": {
+    "Speaker 1": {
+      "voice": "Puck"
+    },
+    "Speaker 2": {
+      "voice": "Kore"
+    }
+  },
+  "turns": [
+    {
+      "speaker": "Speaker 1",
+      "instructions": "polite and friendly",
+      "text": "Salut ! Je reste trois jours chez toi et j'aimerais découvrir la ville à pied. J'aurais besoin de tes conseils pour organiser mes balades. Est-ce que je pourrais te poser quelques questions ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "welcoming and helpful",
+      "text": "Salut ! Avec plaisir, je connais chaque rue du centre. Cette ville se visite très bien à pied. Que veux-tu savoir ?"
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "curious and inquisitive",
+      "text": "Pour commencer, quels quartiers est-ce que tu me conseilles de visiter, et lesquels sont les plus agréables à pied ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Le vieux centre, le quartier des artistes et les bords du fleuve. Tous se font à pied, mais le vieux centre est le plus beau."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "D'accord. Et pourquoi est-ce que le vieux centre est si agréable, qu'est-ce qu'on y trouve exactement ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Des ruelles pavées, un marché couvert et beaucoup de cafés. On y trouve aussi de belles fresques peintes sur les murs."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Je vois. Où est-ce que je devrais commencer la balade, et dans quel ordre visiter les quartiers ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Commence à la gare, traverse le vieux centre puis descends vers le fleuve. La promenade dure environ trois heures."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Ah, c'est bon à savoir. Combien coûte une visite guidée, et est-ce que la balade libre est moins chère ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "La visite guidée coûte douze euros, mais une balade libre ne coûte rien. Il suffit de suivre les panneaux numérotés."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Très bien, merci. Quand est-ce que c'est le meilleur moment pour marcher, le matin ou en fin d'après-midi ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Le matin avant dix heures, il y a peu de monde. En fin d'après-midi, la lumière sur le fleuve est magnifique."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Je comprends mieux. Comment est-ce que je peux trouver un plan du centre, à l'office de tourisme ou en ligne ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "À l'office de tourisme, devant la gare. Les plans sont gratuits, un petit guide est proposé."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Ah, c'est pratique. Et qui est-ce que je pourrais questionner sur place si je me perds dans les ruelles ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Les commerçants sont très sympas, surtout dans les petites boutiques. Les habitants t'aideront sans problème."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "thoughtful and practical",
+      "text": "Justement, si jamais il pleut pendant mes balades, est-ce qu'il y a des visites à l'intérieur ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Oui, le musée des beaux-arts et le marché couvert sont parfaits. Le musée est gratuit le premier dimanche du mois."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "thoughtful and practical",
+      "text": "C'est noté. Et est-ce que les quartiers sont accessibles avec une poussette ou un fauteuil roulant ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Le vieux centre est plat et bien aménagé. Les bords du fleuve aussi, mais certaines ruelles ont des pavés difficiles."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "thoughtful and practical",
+      "text": "D'accord. Si jamais je veux prolonger la balade, est-ce qu'il y a un quartier plus loin qui vaut le détour ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Oui, le quartier des jardins, à vingt minutes à pied. Il y a un parc, un potager partagé et un café agréable."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "grateful and warm",
+      "text": "Parfait, ça répond à toutes mes questions. Merci beaucoup, je vais préparer mon itinéraire pour demain matin."
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "welcoming and helpful",
+      "text": "Avec plaisir ! Prends de bonnes chaussures et n'oublie pas ton appareil photo. Bonne balade et à ce soir !"
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "grateful and warm",
+      "text": "Merci encore pour tous ces conseils, c'est vraiment gentil. À ce soir et bonne journée !"
+    }
+  ]
+}

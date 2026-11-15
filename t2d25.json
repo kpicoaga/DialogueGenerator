@@ -1,0 +1,139 @@
+{
+  "title": "Se renseigner sur la location d'objets dans un magasin spécialisé",
+  "model": "google/gemini-3.8-flash-lite-tts",
+  "speakers": {
+    "Speaker 1": {
+      "voice": "Puck"
+    },
+    "Speaker 2": {
+      "voice": "Kore"
+    }
+  },
+  "turns": [
+    {
+      "speaker": "Speaker 1",
+      "instructions": "polite and friendly",
+      "text": "Bonjour ! J'ai entendu dire que votre magasin loue du matériel qu'on n'utilise qu'occasionnellement, comme des outils ou des accessoires de camping. Est-ce que je pourrais vous poser quelques questions à ce sujet ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "welcoming and helpful",
+      "text": "Bonjour ! Bien sûr, avec plaisir. C'est justement notre spécialité : la location d'objets qu'on utilise rarement. Que souhaitez-vous savoir ?"
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Très bien. Pour commencer, quel type de matériel est-ce que vous proposez, et que me conseilleriez-vous pour un déménagement ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Nous avons des outils, du matériel de cuisine et des accessoires de camping. Pour un déménagement, je conseille les diables et les couvertures."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "D'accord. Et combien coûte une location, par exemple pour un diable et une perceuse ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "La perceuse coûte douze euros par jour, et le diable huit euros. À la semaine, vous bénéficiez d'une réduction de trente pour cent."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Je vois. Et comment est-ce que la réservation fonctionne ? Il faut s'y prendre à l'avance ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Vous pouvez réserver en ligne ou par téléphone, puis retirer votre matériel deux jours plus tard. En été, réservez une semaine avant."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Très bien, merci. Et quand est-ce que le magasin est ouvert, le soir et le dimanche ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Nous sommes ouverts du lundi au samedi, de neuf heures à dix-neuf heures, et le dimanche matin pour les retours."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Ah, c'est bon à savoir. Et où est-ce que je récupère le matériel ? Au magasin même ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Oui, au comptoir du fond, après la caisse. Vous présentez votre contrat et une pièce d'identité, et on vous prépare le matériel."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Je comprends mieux. Et qui est-ce qui doit se présenter au comptoir ? Moi ou quelqu'un d'autre ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "La personne qui a signé le contrat doit venir, avec une pièce d'identité. Si c'est un ami, il suffit qu'il apporte votre autorisation écrite."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "C'est noté. Et pourquoi est-ce que vous demandez une caution, justement ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Une caution de cent cinquante euros est demandée pour les objets fragiles. Elle est rendue en entier si le matériel revient en bon état."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "thoughtful and practical",
+      "text": "Justement, si jamais je rends l'objet avec un jour de retard, est-ce qu'il y a une pénalité ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Oui, cinq euros par jour de retard, plafonnés à vingt euros. Mais un simple appel suffit souvent pour prolonger la location."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "thoughtful and practical",
+      "text": "C'est noté. Et pour le retour, justement, il faut nettoyer le matériel avant de le rendre ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Rendez-le propre et complet, un coup de chiffon suffit souvent. On vérifie tout devant vous, en cinq minutes environ."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "thoughtful and practical",
+      "text": "D'accord. Et si jamais je casse quelque chose, comment est-ce que ça se passe avec l'assurance ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Une assurance est incluse jusqu'à trois cents euros de dommages. Au-delà, vous payez la réparation, mais le devis est toujours établi avec vous."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "grateful and warm",
+      "text": "Parfait, ça répond à toutes mes questions. Merci beaucoup, je vais réserver le diable pour samedi sur votre site."
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "welcoming and helpful",
+      "text": "Avec plaisir ! N'oubliez pas votre pièce d'identité et venez avant dix-huit heures. Bonne journée et à samedi !"
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "grateful and warm",
+      "text": "Merci encore pour toutes ces explications, c'était très clair. À samedi et bonne journée !"
+    }
+  ]
+}

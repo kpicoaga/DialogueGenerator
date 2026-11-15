@@ -1,0 +1,139 @@
+{
+  "title": "Se renseigner sur la surveillance d'un appartement pendant un voyage",
+  "model": "google/gemini-3.8-flash-lite-tts",
+  "speakers": {
+    "Speaker 1": {
+      "voice": "Puck"
+    },
+    "Speaker 2": {
+      "voice": "Kore"
+    }
+  },
+  "turns": [
+    {
+      "speaker": "Speaker 1",
+      "instructions": "polite and friendly",
+      "text": "Salut ! Tu m'avais dit que, quand tu pars en voyage, quelqu'un surveille ton appartement et arrose tes plantes. Ça m'intéresse. Est-ce que je pourrais te poser quelques questions à ce sujet ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "welcoming and helpful",
+      "text": "Salut ! Oui, je fais ça depuis deux ans, surtout quand je pars plusieurs semaines. Bien sûr, pose tes questions, je t'écoute."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "curious and inquisitive",
+      "text": "D'accord. Et où est-ce que tu laisses tes clés, à un voisin ou dans une boîte ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Je laisse un double chez ma sœur, qui habite à dix minutes. La personne passe le prendre et me le rend après."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Je vois. Et quand est-ce que tu préviens la personne, longtemps à l'avance ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Je la préviens deux semaines avant pour qu'elle bloque les dates. Elle part parfois en vacances, il faut vérifier."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Très bien, merci. Et pourquoi tu choisis une voisine plutôt qu'une entreprise spécialisée ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "C'est moins cher et elle connaît l'immeuble. S'il y a une fuite, elle peut réagir tout de suite."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Ah, c'est bon à savoir. Et comment tu t'assures que la personne fait bien toutes les tâches prévues ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "On a fait une liste ensemble : arroser les plantes deux fois par semaine, relever le courrier. Elle m'envoie des photos."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Je comprends mieux. Et combien est-ce que tu lui donnes pour ce service, c'est un forfait ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Vingt euros par semaine, plus ce que je rapporte de mes voyages. Elle refuse l'argent, mais je tiens à la remercier."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "C'est noté. Et qui est-ce qui garde un double de tes clés, au cas où la personne serait absente ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Ma sœur garde toujours un double. Si la voisine est absente, elle peut passer et vérifier l'appartement à ma place."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Ah, c'est intéressant. Et quelle est la tâche la plus importante pour toi, celle dont tu ne peux pas te passer ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "L'arrosage, parce que mes plantes sont fragiles. Tout le reste peut attendre, mais trois jours sans eau et c'est fini."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "thoughtful and practical",
+      "text": "Justement, si jamais il y a un problème d'eau ou une coupure, comment est-ce que la personne doit réagir ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Elle m'appelle tout de suite et, en attendant, elle coupe le robinet général. Le gardien a aussi mon numéro."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "thoughtful and practical",
+      "text": "C'est noté. Et est-ce que tu lui demandes aussi de faire le ménage ou de sortir les poubelles ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Seulement les poubelles et aérer de temps en temps. Pour le ménage, je préfère le faire moi-même en rentrant."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "thoughtful and practical",
+      "text": "D'accord. Si jamais la personne tombe malade pendant mon absence, qu'est-ce que je pourrais prévoir ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Prévois une deuxième personne de secours, par exemple un autre voisin. Un simple message suffit pour lui demander de passer."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "grateful and warm",
+      "text": "Parfait, ça répond à toutes mes questions. Merci beaucoup, je vais demander à ma voisine du dessus avant mon départ."
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "friendly and encouraging",
+      "text": "Avec plaisir ! N'hésite pas si tu as d'autres questions. Bon voyage et bonne journée !"
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "grateful and warm",
+      "text": "Merci encore, tu m'as beaucoup aidé. À bientôt et bon voyage à toi aussi !"
+    }
+  ]
+}

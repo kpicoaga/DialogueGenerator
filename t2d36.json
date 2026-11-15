@@ -1,0 +1,139 @@
+{
+  "title": "Se renseigner sur une opportunité de travail à l'étranger auprès de son supérieur",
+  "model": "google/gemini-3.8-flash-lite-tts",
+  "speakers": {
+    "Speaker 1": {
+      "voice": "Puck"
+    },
+    "Speaker 2": {
+      "voice": "Kore"
+    }
+  },
+  "turns": [
+    {
+      "speaker": "Speaker 1",
+      "instructions": "polite and friendly",
+      "text": "Bonjour ! Vous m'avez parlé d'un poste à l'étranger et je vous remercie de cette opportunité. Avant de répondre, j'aimerais en savoir davantage. Est-ce que je pourrais vous poser quelques questions ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "welcoming and helpful",
+      "text": "Bonjour ! Bien sûr, c'est une décision importante et je comprends que vous vouliez tous les détails. Posez-moi vos questions."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "curious and inquisitive",
+      "text": "Pour commencer, quelles seraient mes missions exactes là-bas, et est-ce que le poste est différent du mien ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Vous dirigeriez une équipe de huit personnes et vous ouvririez le nouveau bureau, avec plus de responsabilités."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "D'accord. Et pourquoi est-ce que l'entreprise a choisi de m'envoyer moi plutôt qu'un collègue plus ancien ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Parce que vous parlez anglais et connaissez nos méthodes. Votre expérience de gestion correspond au poste."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Je vois. Combien est-ce que le salaire serait augmenté, et y a-t-il une prime de départ à l'étranger ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Le salaire augmenterait de vingt pour cent, avec une prime de trois mille euros. Le logement est pris en charge six mois."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Ah, c'est bon à savoir. Et où est-ce que le poste se trouve exactement, dans quelle ville et dans quel quartier ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "À Montréal, dans le quartier des affaires. Le bureau est à dix minutes à pied du métro."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Très bien, merci. Comment est-ce que le départ serait organisé, avec une formation avant de partir ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Deux semaines de formation à Paris, puis un accompagnement sur place pendant un mois. Nous payons les billets et le visa."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Je comprends mieux. Quand est-ce que le poste commence, et combien de temps est-ce qu'il dure ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Le poste commence en janvier et dure deux ans, renouvelable une fois. Un retour en France est prévu à la fin."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Ah, c'est intéressant. Et qui est-ce que je devrais contacter sur place en cas de problème administratif ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Notre responsable des ressources humaines à Montréal, madame Tremblay. Elle vous aidera pour le logement, la banque et les papiers."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "thoughtful and practical",
+      "text": "Justement, si jamais je veux rentrer en France pour raisons familiales, est-ce que c'est possible en cours de mission ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Oui, avec un préavis de deux mois et l'accord du directeur. Votre poste actuel resterait disponible pendant les six premiers mois."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "thoughtful and practical",
+      "text": "C'est noté. Et est-ce que ma famille pourrait venir avec moi, et est-ce que l'entreprise aide pour l'école des enfants ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Oui, votre famille peut vous accompagner. Nous participons aux frais de scolarité à hauteur de cinquante pour cent la première année."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "thoughtful and practical",
+      "text": "D'accord. Si jamais je refuse cette offre, est-ce que cela aura des conséquences sur mon poste actuel ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Aucune, votre poste reste le même. Nous proposerons l'opportunité à quelqu'un d'autre, sans aucune conséquence pour vous."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "grateful and warm",
+      "text": "Parfait, ça répond à toutes mes questions. Merci beaucoup, je vais en parler à ma famille et vous répondrai vendredi."
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "welcoming and helpful",
+      "text": "Avec plaisir ! Prenez le temps de réfléchir, c'est une belle opportunité. Je reste disponible si vous avez d'autres questions."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "grateful and warm",
+      "text": "Merci encore pour votre temps et pour ces précisions, c'était très clair. À vendredi et bonne journée !"
+    }
+  ]
+}

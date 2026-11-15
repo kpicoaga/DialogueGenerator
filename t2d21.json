@@ -1,0 +1,139 @@
+{
+  "title": "Choisir une activité dans un centre culturel et sportif",
+  "model": "google/gemini-3.8-flash-lite-tts",
+  "speakers": {
+    "Speaker 1": {
+      "voice": "Puck"
+    },
+    "Speaker 2": {
+      "voice": "Kore"
+    }
+  },
+  "turns": [
+    {
+      "speaker": "Speaker 1",
+      "instructions": "polite and friendly",
+      "text": "Bonjour ! Je suis arrivé au Canada il y a deux mois et je cherche une activité pour mes soirées. Est-ce que je pourrais vous poser quelques questions à ce sujet ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "welcoming and helpful",
+      "text": "Bonjour et bienvenue ! Bien sûr. Notre centre propose du sport et des ateliers culturels. Qu'est-ce qui vous intéresse ?"
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "curious and inquisitive",
+      "text": "Merci ! Pour commencer, quelles activités est-ce que vous me conseilleriez pour un débutant qui n'a jamais rien pratiqué ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Je vous conseille la natation le mardi soir ou l'atelier de poterie le jeudi. Les deux sont accessibles et on y rencontre du monde."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "D'accord. Pourquoi est-ce que vous me recommandez la natation plutôt que la salle de sport classique ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Parce que c'est plus doux pour le dos et que les cours sont en petit groupe. Il y a des séances libres le samedi matin."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Je vois. Combien est-ce que coûte l'abonnement mensuel, et est-ce qu'il y a un tarif pour les nouveaux arrivants ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "L'abonnement coûte cinquante dollars canadiens par mois et donne accès à toutes les activités. Les nouveaux arrivants paient moitié prix les trois premiers mois."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Ah, c'est bon à savoir. Et où est-ce que se trouvent vos salles, près du métro ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Le centre est juste en face de la station Jean-Talon, sortie nord. Un parking gratuit se trouve derrière le bâtiment."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Très bien, merci. Comment est-ce que je peux m'inscrire, et faut-il apporter un document particulier ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Vous pouvez vous inscrire en ligne ou à l'accueil. Il suffit d'une pièce d'identité et d'un certificat médical pour le sport."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Je comprends mieux. Quand est-ce que les cours commencent, et à quelle heure ferment les salles ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "La nouvelle session commence le quinze janvier. Les salles sont ouvertes de sept heures à vingt-deux heures en semaine."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "C'est noté. Et qui est-ce qui anime les ateliers culturels, des professionnels ou des bénévoles ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Les ateliers sont animés par des artistes professionnels, souvent québécois. Ils exposent les travaux des participants une fois par an."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "thoughtful and practical",
+      "text": "Justement, si jamais je ne peux pas venir un soir, est-ce que je peux rattraper le cours une autre fois ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Oui, vous pouvez rattraper jusqu'à quatre cours par session. Il suffit de prévenir l'accueil vingt-quatre heures avant."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "thoughtful and practical",
+      "text": "C'est noté, merci. Et si je veux essayer deux activités différentes, est-ce que je dois payer deux abonnements ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Non, un seul abonnement suffit pour toutes les activités. Je vous conseille quand même de choisir une discipline au début."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "thoughtful and practical",
+      "text": "D'accord. Si jamais j'ai un problème de santé pendant l'année, est-ce que l'abonnement peut être suspendu ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Oui, sur présentation d'un certificat médical, nous suspendons l'abonnement sans frais. La reprise se fait à la fin de l'arrêt."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "grateful and warm",
+      "text": "Parfait, ça répond à toutes mes questions. Merci beaucoup, je vais réfléchir et revenir m'inscrire avant le quinze janvier."
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "friendly and encouraging",
+      "text": "Avec plaisir, nous serons ravis de vous accueillir. N'hésitez pas à demander une séance d'essai gratuite. Bonne journée !"
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "grateful and warm",
+      "text": "Merci encore pour toutes ces informations, c'était très utile. À bientôt et bonne journée !"
+    }
+  ]
+}

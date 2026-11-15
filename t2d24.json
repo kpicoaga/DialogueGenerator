@@ -1,0 +1,139 @@
+{
+  "title": "Préparer une sortie surprise en s'inspirant d'un collègue",
+  "model": "google/gemini-3.8-flash-lite-tts",
+  "speakers": {
+    "Speaker 1": {
+      "voice": "Puck"
+    },
+    "Speaker 2": {
+      "voice": "Kore"
+    }
+  },
+  "turns": [
+    {
+      "speaker": "Speaker 1",
+      "instructions": "polite and friendly",
+      "text": "Salut Marc ! Tu as organisé une sortie surprise pour ta sœur sans révéler la destination. Ça m'a donné une idée. Est-ce que je pourrais te poser quelques questions à ce sujet ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "welcoming and helpful",
+      "text": "Salut ! Avec plaisir, c'était une super expérience. Je l'avais réservée un mois à l'avance, dans le plus grand secret. Qu'est-ce que tu veux savoir ?"
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Très bien. Pour commencer, où est-ce que tu l'as emmenée exactement, et pourquoi cet endroit-là ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Dans un petit village au bord de la mer, en Bretagne, à trois heures de route. Elle adore les falaises et n'y était jamais allée."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "D'accord. Et comment est-ce que tu as préparé la sortie sans qu'elle se doute de rien ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "J'ai tout réservé en ligne et caché les confirmations dans mon bureau. Le matin, je lui ai juste dit de prévoir des chaussures."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Je vois. Et combien est-ce que tout ça t'a coûté, gîte et repas compris ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Environ quatre cent cinquante euros pour trois jours, transport inclus. J'ai profité d'une offre d'hiver, ça a fait baisser la note."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Ah, c'est bon à savoir. Et qui était au courant du projet ? Tes amis ou seulement ta famille ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Seulement sa meilleure amie, qui devait garder le chien. Plus personne, sinon le secret serait vite sorti."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Très bien, merci. Et quand est-ce que tu lui as annoncé le départ, le jour même ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Le samedi matin, au petit-déjeuner, avec une carte et un plan plié. Elle a compris au moment où nous avons pris l'autoroute."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Je comprends mieux. Et pourquoi est-ce que tu as tenu à garder le secret jusqu'au dernier moment ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Parce que le mystère crée le suspense. Plus on attend, plus la surprise est forte, et les enfants adorent ça."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "C'est noté. Quelle réaction est-ce qu'elle a eue en arrivant, et ça valait le coup ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Elle était bouleversée, elle a même pleuré devant les falaises. Franchement, c'était le plus beau week-end de notre année."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "thoughtful and practical",
+      "text": "Justement, si jamais la météo est mauvaise le jour prévu, tu avais prévu une solution de secours ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Oui, j'avais vérifié une exposition et un restaurant couverts. En regardant les prévisions trois jours avant, j'ai confirmé la réservation."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "thoughtful and practical",
+      "text": "C'est noté. Et pour le déplacement, justement, tu as choisi la voiture ou le train ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "En voiture, c'était plus simple avec les bagages. J'avais loué une petite citadine pour trois jours, environ soixante euros."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "thoughtful and practical",
+      "text": "D'accord. Et si jamais elle n'avait pas aimé, comment est-ce que tu aurais réagi ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "J'aurais gardé le sourire et proposé un programme plus tranquille le lendemain. L'important, c'était de passer du temps ensemble."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "grateful and warm",
+      "text": "Parfait, ça répond à toutes mes questions. Merci beaucoup, je vais réserver le week-end prochain et garder la destination secrète."
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "welcoming and helpful",
+      "text": "Avec plaisir ! Pense à garder une photo du moment où elle comprend. Bonne chance et raconte-moi ça lundi !"
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "grateful and warm",
+      "text": "Merci encore pour tous tes conseils, ça m'aide beaucoup. À lundi et bonne journée !"
+    }
+  ]
+}

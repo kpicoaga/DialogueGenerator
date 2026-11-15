@@ -1,0 +1,139 @@
+{
+  "title": "Choisir une sortie pour le soir auprès d'un ami",
+  "model": "google/gemini-3.8-flash-lite-tts",
+  "speakers": {
+    "Speaker 1": {
+      "voice": "Puck"
+    },
+    "Speaker 2": {
+      "voice": "Kore"
+    }
+  },
+  "turns": [
+    {
+      "speaker": "Speaker 1",
+      "instructions": "polite and friendly",
+      "text": "Salut ! J'ai envie de sortir ce soir mais j'hésite encore un peu entre plusieurs idées. Comme tu sors souvent, j'aimerais avoir ton avis. Est-ce que je pourrais te poser quelques questions ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "welcoming and helpful",
+      "text": "Salut ! Bien sûr, avec plaisir. Ce soir, il y a plusieurs choses sympas dans le centre. Que veux-tu savoir ?"
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "curious and inquisitive",
+      "text": "Pour commencer, quelles activités est-ce que tu me conseilles ce soir, et lesquelles sont les plus faciles à organiser ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Un cinéma en plein air, une soirée jeux ou un concert. Le cinéma est le plus simple, sans réservation."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "D'accord. Et pourquoi est-ce que tu préfères le cinéma en plein air aux autres options pour ce soir ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Parce qu'il fait très beau et que le film commence au coucher du soleil. C'est gratuit et on apporte un pique-nique."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Je vois. Où est-ce que ça se passe exactement, et est-ce que c'est facile d'y aller en métro ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Sur la place du marché, à cinq minutes du métro Bastille. La sortie est en face de la fontaine."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Ah, c'est bon à savoir. Combien coûte l'entrée, et faut-il réserver à l'avance ou on peut venir directement ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "C'est gratuit, il suffit d'arriver avant vingt heures. On peut louer une chaise pour trois euros sur place."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Très bien, merci. Quand est-ce qu'il faut partir de chez moi pour être sûr d'avoir une place ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Pars vers dix-huit heures quarante-cinq, le temps d'arriver et de trouver un bon endroit. Le métro est direct."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Je comprends mieux. Comment est-ce qu'on s'organise si on est plusieurs, chacun apporte quelque chose ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Oui, chacun apporte quelque chose à partager et une couverture. Je m'occupe des boissons, tu prends un gâteau."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Ah, c'est parfait. Et qui est-ce qui vient ce soir, est-ce que d'autres amis sont déjà partants ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Léa et Thomas viennent avec nous, et peut-être Julie. On se retrouve devant la fontaine à dix-neuf heures trente."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "thoughtful and practical",
+      "text": "Justement, si jamais il pleut ce soir, est-ce que le cinéma en plein air est annulé ou déplacé ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "En cas de pluie, la séance est déplacée dans la salle municipale, juste à côté. L'annonce est faite à dix-sept heures."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "thoughtful and practical",
+      "text": "C'est noté. Et est-ce qu'il y a des toilettes et un endroit pour acheter à boire sur place ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Oui, il y a des toilettes publiques et un petit kiosque. Les prix sont corrects, deux euros la limonade."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "thoughtful and practical",
+      "text": "D'accord. Si jamais je finis tard au travail, est-ce que je peux vous rejoindre sur place pendant le film ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Bien sûr, envoie-moi un message et on te garde une place. Le film dure deux heures."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "grateful and warm",
+      "text": "Parfait, ça répond à toutes mes questions. Merci beaucoup, je vais préparer le pique-nique et je te retrouve à dix-neuf heures trente."
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "welcoming and helpful",
+      "text": "Super ! N'oublie pas une couverture, il commence à faire frais le soir. À tout à l'heure devant la fontaine !"
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "grateful and warm",
+      "text": "Merci encore pour les idées, c'était vraiment sympa de ta part. À tout à l'heure et bonne soirée !"
+    }
+  ]
+}

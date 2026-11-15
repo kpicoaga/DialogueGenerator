@@ -1,0 +1,139 @@
+{
+  "title": "Se renseigner sur les possibilités de bénévolat dans une ville",
+  "model": "google/gemini-3.8-flash-lite-tts",
+  "speakers": {
+    "Speaker 1": {
+      "voice": "Puck"
+    },
+    "Speaker 2": {
+      "voice": "Kore"
+    }
+  },
+  "turns": [
+    {
+      "speaker": "Speaker 1",
+      "instructions": "polite and friendly",
+      "text": "Salut ! Je passe quelques jours dans ta ville et j'aimerais faire un peu de bénévolat pendant mon séjour. Est-ce que je pourrais te poser quelques questions à ce sujet ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "welcoming and helpful",
+      "text": "Salut ! Excellente idée, c'est très courant ici, même pour quelques jours. Bien sûr, vas-y, je réponds à tes questions."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "curious and inquisitive",
+      "text": "D'accord. Et où est-ce que je peux trouver des associations qui acceptent les bénévoles de passage ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Il y a une maison des associations près de la gare. Elle tient une permanence le mardi et le jeudi, de quatorze à dix-huit heures."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Je vois. Et quand est-ce que les missions ont lieu, plutôt le week-end ou en semaine ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Surtout en semaine, le matin. Mais les distributions alimentaires du samedi cherchent toujours des mains, surtout en fin de mois."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Très bien, merci. Et pourquoi tu me conseilles plutôt l'aide alimentaire que le jardinage partagé ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Parce qu'il faut moins de formation et que l'équipe est très accueillante. En deux heures, tu vois déjà des résultats."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Ah, c'est bon à savoir. Et comment est-ce que je m'inscris si je ne peux rester que trois jours ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Tu envoies un mail à l'association avec tes dates. Elle te propose un créneau et une courte rencontre."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Je comprends mieux. Et combien de temps est-ce que je devrais prévoir, deux heures par jour suffisent ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Deux ou trois heures par jour, c'est parfait. Les équipes préfèrent des créneaux réguliers plutôt qu'une seule journée entière."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "C'est noté. Et qui est-ce que j'aiderais concrètement, des familles, des personnes âgées, des étudiants ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Surtout des familles nombreuses et des personnes âgées isolées. La plupart viennent deux fois par semaine, elles apprécient beaucoup la conversation."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Ah, c'est intéressant. Et quelle mission serait la plus adaptée à quelqu'un qui parle bien français ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "L'accueil et l'aide aux devoirs : tu peux discuter librement. La chorale du mercredi cherche aussi des gens pour accompagner les enfants."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "thoughtful and practical",
+      "text": "Justement, si jamais je n'ai aucune expérience dans ce domaine, est-ce que je serai quand même accepté ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Oui, tout à fait, on forme les nouveaux bénévoles en une heure. L'important, c'est d'être ponctuel et de prévenir en cas d'absence."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "thoughtful and practical",
+      "text": "C'est noté. Et est-ce qu'il faut apporter quelque chose, des vêtements particuliers par exemple ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Des vêtements simples et des chaussures fermées, rien de plus. Pour l'extérieur, on te prête un gilet de l'association."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "thoughtful and practical",
+      "text": "D'accord. Si jamais je veux continuer à distance après mon retour, est-ce que c'est possible ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Certaines associations proposent des missions en ligne, comme la traduction ou l'aide aux devoirs. Tu pourras regarder ça vers la fin de ton séjour."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "grateful and warm",
+      "text": "Parfait, ça répond à toutes mes questions. Merci beaucoup, je vais passer à la maison des associations dès demain matin."
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "friendly and encouraging",
+      "text": "Avec plaisir ! Tu vas voir, c'est une très belle expérience. Bon séjour et bonne journée !"
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "grateful and warm",
+      "text": "Merci encore pour ton aide, tu m'as donné envie de commencer. À bientôt et bonne journée !"
+    }
+  ]
+}

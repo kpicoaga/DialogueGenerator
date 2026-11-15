@@ -1,0 +1,139 @@
+{
+  "title": "Se renseigner sur une soirée de quartier auprès d'un voisin",
+  "model": "google/gemini-3.8-flash-lite-tts",
+  "speakers": {
+    "Speaker 1": {
+      "voice": "Puck"
+    },
+    "Speaker 2": {
+      "voice": "Kore"
+    }
+  },
+  "turns": [
+    {
+      "speaker": "Speaker 1",
+      "instructions": "polite and friendly",
+      "text": "Bonjour ! Merci encore de m'avoir invité à la soirée de lundi. Comme je viens d'emménager, j'aimerais en savoir plus. Est-ce que je pourrais te poser quelques questions à ce sujet ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "welcoming and helpful",
+      "text": "Bonjour ! Mais bien sûr, avec plaisir. C'est l'occasion idéale de connaître les voisins. Tu veux savoir quoi exactement ?"
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "curious and inquisitive",
+      "text": "Pour commencer, où est-ce que la soirée aura lieu, chez toi ou dans la salle commune de l'immeuble ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Dans la salle commune, au rez-de-chaussée. On y met plusieurs tables et ça permet d'inviter trente personnes."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "D'accord. Et quand faut-il arriver exactement, et à quelle heure est-ce que la soirée se termine ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "On commence vers dix-neuf heures et ça finit rarement avant minuit. Si tu viens à vingt heures, pas de souci."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Je vois. Combien est-ce que je dois compter pour participer, et faut-il payer quelque chose à l'avance ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Rien du tout ! Chacun apporte un plat ou une boisson, et la mairie offre les tables. Tout est gratuit."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Ah, c'est bon à savoir. Et qu'est-ce que je devrais apporter, un dessert, une entrée ou plutôt une boisson ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Apporte un dessert, il y a toujours trop d'entrées. Un gâteau fait plaisir, et précise s'il contient des fruits à coque."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Très bien, merci. Comment est-ce que la soirée est organisée, est-ce qu'on reste assis ou est-ce qu'on circule ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "On commence par un apéritif debout pour se présenter, puis on mange par tables. À vingt-deux heures, un voisin joue de la guitare."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Je comprends mieux. Pourquoi est-ce que cette soirée a été créée au départ, et est-ce qu'elle a lieu chaque année ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Elle a été lancée il y a cinq ans pour que les nouveaux habitants rencontrent les anciens. Depuis, elle revient deux fois par an."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Ah, c'est intéressant. Et qui est-ce qui organise, c'est le syndic ou juste quelques voisins bénévoles ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "C'est un petit groupe de bénévoles, surtout des voisins du troisième étage. On se retrouve deux fois avant pour préparer."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "thoughtful and practical",
+      "text": "Justement, si jamais je ne connais personne ce soir-là, qui est-ce que je pourrais aborder pour ne pas rester seul ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Viens me voir, je te présenterai madame Lemoine et la famille Sanchez. Ils parlent facilement et mettent tout le monde à l'aise."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "thoughtful and practical",
+      "text": "C'est noté. Et est-ce qu'il y a un parking ou un bus pour rentrer facilement après minuit ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Le dernier bus passe à minuit dix, devant la pharmacie. Sinon, il y a un parking gratuit derrière l'immeuble."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "thoughtful and practical",
+      "text": "D'accord. Si jamais je ne peux pas venir lundi, est-ce que la prochaine soirée est déjà prévue ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Oui, la suivante aura lieu en décembre, avant les fêtes. On affichera la date dans le hall et sur le panneau."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "grateful and warm",
+      "text": "Parfait, ça répond à toutes mes questions. Merci beaucoup, je passerai lundi avec un gâteau aux pommes."
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "welcoming and helpful",
+      "text": "Excellente idée ! À lundi alors, tu verras, l'ambiance est très chaleureuse."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "grateful and warm",
+      "text": "Merci encore pour ton accueil, c'est très gentil de ta part. À lundi et bonne soirée !"
+    }
+  ]
+}

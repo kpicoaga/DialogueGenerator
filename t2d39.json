@@ -1,0 +1,139 @@
+{
+  "title": "Se renseigner sur une activité extrascolaire auprès d'un parent d'élève",
+  "model": "google/gemini-3.8-flash-lite-tts",
+  "speakers": {
+    "Speaker 1": {
+      "voice": "Puck"
+    },
+    "Speaker 2": {
+      "voice": "Kore"
+    }
+  },
+  "turns": [
+    {
+      "speaker": "Speaker 1",
+      "instructions": "polite and friendly",
+      "text": "Bonjour ! Je cherche une activité pour mes enfants après les cours et j'ai vu que les vôtres en font une. Est-ce que je pourrais vous poser quelques questions ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "welcoming and helpful",
+      "text": "Bonjour ! Bien sûr, avec plaisir. Mes deux enfants participent depuis deux ans et ils adorent. Que voulez-vous savoir ?"
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "curious and inquisitive",
+      "text": "Pour commencer, quelles activités sont proposées juste après l'école, et lesquelles sont les plus demandées ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Il y a du football, de la danse et un atelier de théâtre dans le gymnase. Le football et la danse sont les plus demandés."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "D'accord. Et pourquoi est-ce que vous avez choisi ces activités-là plutôt que d'autres pour vos enfants ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Parce que tout se passe dans l'école, sans transport. Les enfants finissent les cours et vont directement à l'activité."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Je vois. Combien coûte l'inscription à l'année, et est-ce qu'il y a une réduction pour le deuxième enfant ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Cent vingt euros par an et par enfant, avec une réduction de vingt pour cent pour le second. L'assurance est comprise dans le prix."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Ah, c'est bon à savoir. Et où est-ce que les enfants attendent entre la fin des cours et le début de l'activité ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Dans la salle de restauration, sous la surveillance d'un animateur. Ils goûtent d'abord, puis ils montent au gymnase pour seize heures trente."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Très bien, merci. Quand est-ce que les activités ont lieu, et combien de temps est-ce qu'elles durent ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Le mardi et le jeudi, de seize heures trente à dix-huit heures. Le mercredi après-midi, il y a aussi un atelier de deux heures."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Je comprends mieux. Comment est-ce qu'on inscrit un enfant, et est-ce qu'il faut fournir des documents particuliers ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Un formulaire à l'accueil et un certificat médical suffisent. Les places sont attribuées par ordre d'arrivée, il faut s'inscrire vite."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Ah, c'est important. Et qui est-ce qui encadre les enfants pendant les activités, des enseignants ou des animateurs sportifs ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Des animateurs diplômés, deux par groupe de quinze enfants. Une enseignante de l'école reste toujours présente dans le bâtiment."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "thoughtful and practical",
+      "text": "Justement, si jamais mon enfant n'aime pas l'activité, est-ce qu'il peut en changer en cours d'année ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Oui, un changement est possible avant les vacances de février, s'il reste des places."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "thoughtful and practical",
+      "text": "C'est noté. Et est-ce qu'il y a un goûter prévu, ou faut-il le mettre dans le cartable de l'enfant ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Le goûter est fourni par l'école : un fruit, un produit laitier et une boisson. Prévenez si votre enfant a une allergie."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "thoughtful and practical",
+      "text": "D'accord. Si jamais nous déménageons l'année prochaine, est-ce que l'inscription est perdue ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Un remboursement au prorata est possible sur présentation d'un justificatif. Si vous restez dans la ville, l'inscription suit dans la nouvelle école."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "grateful and warm",
+      "text": "Parfait, ça répond à toutes mes questions. Merci beaucoup, je vais remplir le formulaire et prendre rendez-vous chez le médecin."
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "welcoming and helpful",
+      "text": "Avec plaisir ! Faites vite pour l'inscription, le football est presque complet. Bonne journée et à bientôt !"
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "grateful and warm",
+      "text": "Merci encore pour tous ces renseignements, c'était très utile. À bientôt et bonne journée !"
+    }
+  ]
+}

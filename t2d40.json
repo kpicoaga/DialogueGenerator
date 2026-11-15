@@ -1,0 +1,139 @@
+{
+  "title": "Se renseigner sur une association qui distribue des repas aux sans-abri",
+  "model": "google/gemini-3.8-flash-lite-tts",
+  "speakers": {
+    "Speaker 1": {
+      "voice": "Puck"
+    },
+    "Speaker 2": {
+      "voice": "Kore"
+    }
+  },
+  "turns": [
+    {
+      "speaker": "Speaker 1",
+      "instructions": "polite and friendly",
+      "text": "Salut ! Tu m'as parlé de ton association et ça m'a beaucoup touché. Je voudrais m'engager aussi et donner un peu de mon temps. Est-ce que je pourrais te poser quelques questions ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "welcoming and helpful",
+      "text": "Salut ! Bien sûr, avec plaisir. On manque toujours de bénévoles le week-end. Que veux-tu savoir ?"
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "curious and inquisitive",
+      "text": "Pour commencer, quelles missions est-ce que je pourrais avoir, et lesquelles sont les plus utiles pour commencer ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Préparer les repas, servir les gens ou faire la vaisselle. Pour débuter, servir est le plus utile, on parle beaucoup."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "D'accord. Et pourquoi est-ce que tu t'es engagé, qu'est-ce qui t'a donné envie de venir chaque semaine ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Parce que je me sentais inutile le dimanche. Maintenant, je vois les mêmes personnes et un vrai lien s'est créé."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Je vois. Combien d'heures est-ce que je devrais donner par semaine, et est-ce qu'il y a une durée minimale ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Deux heures par semaine suffisent, par exemple le samedi de onze à treize heures. L'engagement minimum est de trois mois."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Ah, c'est bon à savoir. Et où est-ce que les repas sont servis, dans un local de l'association ou en plein air ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Dans le local près de la gare, au numéro douze de la rue des Lilas. En été, on distribue aussi des repas au parc."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Très bien, merci. Quand est-ce que je pourrais commencer, et est-ce qu'il y a une réunion avant de débuter ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Il y a une réunion d'information mardi prochain. On peut commencer dès le samedi qui suit, avec un bénévole."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Je comprends mieux. Comment est-ce que je m'inscris, et est-ce qu'il faut une formation ou un diplôme particulier ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Un simple mail à l'association suffit, aucun diplôme n'est demandé. On reçoit une formation sur la sécurité alimentaire."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Ah, c'est rassurant. Et qui est-ce qui encadre les bénévoles, un salarié de l'association ou un responsable bénévole ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Un responsable bénévole, présent à chaque service. Il y a aussi deux salariés pour la cuisine, du lundi au vendredi."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "thoughtful and practical",
+      "text": "Justement, si jamais je suis malade un samedi, est-ce que je dois prévenir quelqu'un ou trouver un remplaçant ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Un simple message suffit, on s'organise entre nous. L'important est de prévenir la veille, pour ne pas laisser l'équipe."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "thoughtful and practical",
+      "text": "C'est noté. Et est-ce qu'il y a des règles particulières à respecter pendant la distribution, pour la discrétion ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "On ne prend pas de photos et on ne demande pas pourquoi les gens sont là. On les traite avec respect."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "thoughtful and practical",
+      "text": "D'accord. Si jamais je veux aider davantage, est-ce que je peux participer à la collecte de nourriture ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Oui, la collecte a lieu une fois par mois dans les supermarchés. On a besoin de bras pour trier les produits."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "grateful and warm",
+      "text": "Parfait, ça répond à toutes mes questions. Merci beaucoup, je vais envoyer un mail et venir à la réunion mardi."
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "welcoming and helpful",
+      "text": "Super nouvelle, tu verras, c'est très enrichissant. À mardi et bon courage pour ta première semaine !"
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "grateful and warm",
+      "text": "Merci encore pour ton accueil, c'est vraiment gentil. À mardi et bonne semaine !"
+    }
+  ]
+}

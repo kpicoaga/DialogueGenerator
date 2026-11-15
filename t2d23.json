@@ -1,0 +1,139 @@
+{
+  "title": "Se renseigner sur un groupe d'échange de savoirs entre amis",
+  "model": "google/gemini-3.8-flash-lite-tts",
+  "speakers": {
+    "Speaker 1": {
+      "voice": "Puck"
+    },
+    "Speaker 2": {
+      "voice": "Kore"
+    }
+  },
+  "turns": [
+    {
+      "speaker": "Speaker 1",
+      "instructions": "polite and friendly",
+      "text": "Salut Léa ! Tu m'avais parlé d'un groupe où les participants partagent leurs connaissances et s'enseignent des compétences gratuitement. Ça m'intéresse vraiment. Est-ce que je pourrais te poser quelques questions à ce sujet ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "welcoming and helpful",
+      "text": "Salut ! Bien sûr, avec plaisir. C'est le réseau Savoir Partagé, on se retrouve chaque semaine pour apprendre ensemble. Que veux-tu savoir ?"
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Très bien. Pour commencer, où est-ce que le groupe se retrouve, et c'est accessible en métro ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "À la maison de quartier, rue des Lilas, juste à côté du métro Bellecour. C'est ouvert à tous et l'entrée est gratuite."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "D'accord. Et quand est-ce que les ateliers ont lieu, le soir ou le week-end ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Le mardi de dix-huit à vingt heures et le samedi matin. Chaque atelier dure environ une heure et demie."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Je vois. Et comment est-ce que ça se passe ? Chacun enseigne à son tour ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Exactement, c'est un échange de savoirs. Chacun propose une compétence, par exemple la couture ou la guitare, et les autres apprennent."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Très bien, merci. Combien de participants y a-t-il en moyenne, et faut-il payer quelque chose ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "On est une quinzaine, et c'est gratuit : chacun donne un peu de son temps. Juste une cotisation de vingt euros par an."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Ah, c'est bon à savoir. Et qui organise les ateliers ? Des professeurs ou des bénévoles ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Aucun professeur, seulement des membres bénévoles. L'organisation est assurée par un petit comité, et j'en fais partie."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "Je comprends mieux. Pourquoi est-ce que les gens viennent ? Surtout pour apprendre ou pour rencontrer du monde ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Les deux, honnêtement. Beaucoup viennent pour l'ambiance : on discute autour d'un café après, et ça crée de vrais liens."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "interested and engaged",
+      "text": "C'est noté. Quelle activité est-ce que tu me conseillerais de commencer, si je suis débutant ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Je te conseillerais la cuisine ou la photo, les ateliers les plus simples pour débuter. Il reste deux places en photo le samedi."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "thoughtful and practical",
+      "text": "Justement, si jamais je ne peux pas venir un samedi, est-ce que je peux rattraper l'atelier ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Bien sûr : il y a un groupe en ligne où l'on partage les fiches. Tu peux aussi venir le mardi soir."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "thoughtful and practical",
+      "text": "C'est noté. Et pour l'inscription, justement, il faut remplir un formulaire ou je peux venir essayer ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Tu peux venir essayer une fois gratuitement, ensuite on t'inscrit sur place en dix minutes. Il suffit d'une pièce d'identité."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "thoughtful and practical",
+      "text": "D'accord. Et si jamais le groupe est complet, je peux m'inscrire sur une liste d'attente ?"
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "calm and informative",
+      "text": "Oui, la liste avance vite, en général deux ou trois semaines. Je te préviendrai dès qu'une place se libère."
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "grateful and warm",
+      "text": "Parfait, ça répond à toutes mes questions. Merci beaucoup, je vais venir essayer l'atelier photo samedi et je te dirai ce que j'en pense."
+    },
+    {
+      "speaker": "Speaker 2",
+      "instructions": "welcoming and helpful",
+      "text": "Avec plaisir ! Viens un peu avant dix heures, je te présenterai les autres membres. À samedi alors !"
+    },
+    {
+      "speaker": "Speaker 1",
+      "instructions": "grateful and warm",
+      "text": "Merci encore, c'est vraiment sympa de m'avoir expliqué tout ça. À samedi et bonne journée !"
+    }
+  ]
+}
