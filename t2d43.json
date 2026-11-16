@@ -1,5 +1,5 @@
 {
-    "title": "Le stage de formation au Canada",
+    "title": "S'informer sur un stage de formation au Canada",
     "model": "mlx-community/Voxtral-4B-TTS-2603-mlx-4bit",
     "speakers": {
         "Speaker 1": {
@@ -13,137 +13,127 @@
         {
             "speaker": "Speaker 1",
             "instructions": "curious and inquisitive",
-            "text": "Bonjour Monsieur, vous m'avez annoncé ma participation au stage de formation au Canada. J'aimerais avoir quelques précisions avant de préparer mon départ."
+            "text": "Bonjour. Je viens d'apprendre que je pars en stage de formation au Canada. Pourrais-je vous poser quelques questions sur l'organisation du séjour ? Je voudrais bien"
         },
         {
             "speaker": "Speaker 2",
             "instructions": "calm and informative",
-            "text": "Bien sûr, c'est tout à fait normal. Le stage commence le 4 mars et dure quinze jours. Nous avons encore trois semaines pour préparer votre départ ensemble."
+            "text": "Bien sûr, c'est tout à fait normal. Le programme est bien ficelé mais je peux vous donner toutes les détails pratiques. N'hésitez pas à poser"
         },
         {
             "speaker": "Speaker 1",
             "instructions": "curious and inquisitive",
-            "text": "D'accord. Et où serai-je logé pendant ces deux semaines ? Est-ce que c'est loin du centre de formation ?"
+            "text": "Pour commencer, quelles sont les modalités d'hébergement prévues sur place ? Je voudrais bien savoir aussi où se trouve la résidence."
         },
         {
             "speaker": "Speaker 2",
             "instructions": "calm and informative",
-            "text": "Dans une résidence universitaire, à dix minutes à pied du centre de formation. Les chambres sont individuelles, le petit-déjeuner est inclus, et il y a une salle de sport."
+            "text": "Vous serez logé dans une résidence universitaire à Montréal, chambre individuelle avec salle de bain privée. La location est calme et bien située."
         },
         {
             "speaker": "Speaker 1",
             "instructions": "curious and inquisitive",
-            "text": "Est-ce que je devrai partager la cuisine avec les autres stagiaires ?"
+            "text": "C'est rassurant. Et combien de temps dure le trajet depuis l'aéroport jusqu'à la résidence, en général ? Je voudrais bien savoir combien de minutes il faut prévoir."
         },
         {
             "speaker": "Speaker 2",
             "instructions": "calm and informative",
-            "text": "Oui, il y a une cuisine commune par étage. C'est pratique et cela permet de rencontrer des collègues venus de différents pays."
+            "text": "Comptez environ quarante-cinq minutes en navette. Le transfert est organisé par l'organisme de formation, le trajet dure peu. Le chauffeur vous attendra."
         },
         {
             "speaker": "Speaker 1",
             "instructions": "curious and inquisitive",
-            "text": "Comment vais-je me rendre à l'aéroport le jour du départ, et qui s'occupe de la réservation ?"
+            "text": "Je vois. Comment se rendre au centre de formation depuis la résidence, et y a-t-il des transports en commun ?"
         },
         {
             "speaker": "Speaker 2",
             "instructions": "calm and informative",
-            "text": "Un taxi sera réservé par l'entreprise. Vous n'aurez rien à payer, tout est pris en charge par le service des ressources humaines."
+            "text": "La résidence est à deux stations de métro. Vous prendrez la ligne verte, direction Honoré-Beaugrand. C'est facile."
         },
         {
             "speaker": "Speaker 1",
             "instructions": "curious and inquisitive",
-            "text": "Et une fois sur place, comment est-ce que je me déplace en ville ?"
+            "text": "C'est pratique. Qui sera mon référent sur place pour les questions administratives ?"
         },
         {
             "speaker": "Speaker 2",
             "instructions": "calm and informative",
-            "text": "Montréal a un excellent réseau de métro et de bus. Nous vous donnerons une carte de transport valable pendant tout le séjour."
+            "text": "Mme Tremblay, la coordinatrice pédagogique. Elle vous attendra le premier jour à neuf heures pile. Si jamais vous êtes en retard, appelez-la."
         },
         {
             "speaker": "Speaker 1",
             "instructions": "curious and inquisitive",
-            "text": "Combien coûte cette carte, et est-ce que l'entreprise la rembourse ?"
+            "text": "Parfait. Quand reçoit-on le planning détaillé des activités de la formation ?"
         },
         {
             "speaker": "Speaker 2",
             "instructions": "calm and informative",
-            "text": "Elle est déjà comprise dans le budget du stage, donc vous n'avez pas à avancer l'argent. Gardez simplement les justificatifs."
+            "text": "Il vous sera envoyé par courriel cette semaine. Vous aurez aussi une version papier à votre arrivée."
         },
         {
             "speaker": "Speaker 1",
             "instructions": "curious and inquisitive",
-            "text": "Quand est-ce que je recevrai mon billet d'avion et les documents nécessaires ?"
+            "text": "D'accord. Pourquoi le stage se déroule-t-il à Montréal plutôt qu'à Toronto ou Vancouver ?"
         },
         {
             "speaker": "Speaker 2",
             "instructions": "calm and informative",
-            "text": "Le service administratif vous les enverra la semaine prochaine, avec votre attestation d'inscription et votre ordre de mission."
+            "text": "Montréal accueille le partenaire universitaire qui a conçu le programme. C'est aussi plus accessible depuis Paris."
         },
         {
             "speaker": "Speaker 1",
             "instructions": "curious and inquisitive",
-            "text": "Qui sera mon contact sur place si j'ai un problème pendant le séjour ?"
+            "text": "Je comprends. Quels frais sont couverts par l'entreprise et lesquels restent à ma charge ?"
         },
         {
             "speaker": "Speaker 2",
             "instructions": "calm and informative",
-            "text": "Madame Tremblay, notre partenaire à Montréal. Je vous donnerai son numéro de téléphone et son adresse courriel avant votre départ."
+            "text": "Le vol, l'hébergement et les transports, la formation et les repas du midi sont pris en charge. Les soirées et extras sont pour vous."
         },
         {
             "speaker": "Speaker 1",
             "instructions": "curious and inquisitive",
-            "text": "Si jamais mon vol est annulé à cause de la météo, que dois-je faire ?"
+            "text": "C'est clair. Justement, si jamais mon vol est retardé, y a-t-il quelqu'un pour m'accueillir à l'aéroport ?"
         },
         {
             "speaker": "Speaker 2",
             "instructions": "calm and informative",
-            "text": "Appelez-moi immédiatement, même le week-end. Nous avons une assurance qui couvre ce genre de situation et nous trouverons une solution."
+            "text": "Oui, un chauffeur vous attendra avec une pancarte à votre nom. Il vous contactera par téléphone."
         },
         {
             "speaker": "Speaker 1",
             "instructions": "curious and inquisitive",
-            "text": "Au cas où je tomberais malade sur place, est-ce que je serai couvert par une assurance santé ?"
+            "text": "Au cas où je tomberais malade sur place, comment fonctionne l'assurance santé à l'étranger ?"
         },
         {
             "speaker": "Speaker 2",
             "instructions": "calm and informative",
-            "text": "Oui, une assurance complète est incluse dans votre contrat. Vous recevrez la carte avant le départ, avec les numéros d'urgence."
+            "text": "L'entreprise a souscrit une assurance rapatriement et frais médicaux. Mme Tremblay vous remettra la carte."
         },
         {
             "speaker": "Speaker 1",
             "instructions": "curious and inquisitive",
-            "text": "Justement, je prends un traitement quotidien. Est-ce que je peux emporter mes médicaments sans problème ?"
+            "text": "Si jamais je dois prolonger mon séjour pour raisons professionnelles, la procédure est-elle souple ?"
         },
         {
             "speaker": "Speaker 2",
             "instructions": "calm and informative",
-            "text": "Bien sûr, mais gardez l'ordonnance avec vous. Certains médicaments doivent être déclarés à la douane, alors vérifiez la liste."
+            "text": "Il faut en informer les RH dès que possible. Une semaine de délai suffit généralement pour modifier le billet. Mme Tremblay peut vous aider."
         },
         {
             "speaker": "Speaker 1",
             "instructions": "curious and inquisitive",
-            "text": "Pourquoi est-ce que le stage dure seulement quinze jours ?"
+            "text": "Merci pour toutes ces précisions. Donc, si je comprends bien, je loge en résidence universitaire, je prends le métro vert, et Mme Tremblay m'accueille le premier jour ?"
         },
         {
             "speaker": "Speaker 2",
             "instructions": "calm and informative",
-            "text": "Parce que le programme est très intensif : ateliers le matin et visites d'entreprise l'après-midi. Deux semaines suffisent pour l'essentiel."
+            "text": "Exactement. Vous avez tous les éléments pour partir sereinement. Bon stage au Canada ! N'oubliez pas votre passeport."
         },
         {
             "speaker": "Speaker 1",
             "instructions": "curious and inquisitive",
-            "text": "Quel est le programme exact de la première semaine ?"
-        },
-        {
-            "speaker": "Speaker 2",
-            "instructions": "calm and informative",
-            "text": "Lundi, accueil et présentation. Mardi et mercredi, formation aux nouveaux logiciels. Jeudi, visite d'une usine. Vendredi, bilan avec les formateurs. Vous recevrez le programme détaillé par courriel."
-        },
-        {
-            "speaker": "Speaker 1",
-            "instructions": "curious and inquisitive",
-            "text": "Merci beaucoup, Monsieur, tout est clair maintenant. Je vais préparer mes affaires et je vous tiendrai informé de mes démarches. Bonne journée !"
+            "text": "Ça répond à toutes mes questions. Merci pour ces précisions, je prépare mon départ. À bientôt ! Je vais vite tout organiser."
         }
     ]
 }
