@@ -1,0 +1,149 @@
+{
+    "title": "Demander à un voisin de garder son enfant le week-end",
+    "model": "mlx-community/Voxtral-4B-TTS-2603-mlx-4bit",
+    "speakers": {
+        "Speaker 1": {
+            "voice": "fr_male"
+        },
+        "Speaker 2": {
+            "voice": "fr_female"
+        }
+    },
+    "turns": [
+        {
+            "speaker": "Speaker 1",
+            "instructions": "curious and inquisitive",
+            "text": "Bonjour ! Merci beaucoup de me proposer de garder mon fils ce week-end : ça me rend vraiment service. Est-ce que je pourrais vous poser quelques questions pratiques ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "calm and informative",
+            "text": "Bonjour ! Avec plaisir. Mon week-end est libre et j'adore les enfants. Qu'est-ce que vous voulez savoir ?"
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "curious and inquisitive",
+            "text": "Pour commencer, de quand à quand pourriez-vous le garder exactement, samedi et dimanche ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "calm and informative",
+            "text": "Samedi à partir de neuf heures et jusqu'à dimanche soir, vers dix-huit heures. Si besoin, je peux m'adapter."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "curious and inquisitive",
+            "text": "C'est parfait. Et pour les repas, comment est-ce que ça se passe ? Il est encore un peu difficile."
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "calm and informative",
+            "text": "Je cuisine simple : pâtes, riz, légumes. Vous pouvez me dire ce qu'il aime et s'il a des allergies."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "curious and inquisitive",
+            "text": "Je vois. Est-ce que vous prévoyez des sorties, et où est-ce que vous iriez avec lui ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "calm and informative",
+            "text": "Le parc près de l'immeuble et la bibliothèque, mais pas de grande sortie loin d'ici."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "curious and inquisitive",
+            "text": "Ça me rassure. Et pour le coucher, à quelle heure est-ce qu'il doit dormir le soir ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "calm and informative",
+            "text": "Vers vingt heures trente. On fera une petite routine : le bain et un livre avant d'éteindre."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "curious and inquisitive",
+            "text": "D'accord. Puisqu'il est allergique aux arachides, qui est-ce que je dois prévenir en cas de problème ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "calm and informative",
+            "text": "Moi, d'abord. Et j'ai le numéro du médecin et le vôtre, que je garde affichés dans la cuisine."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "curious and inquisitive",
+            "text": "C'est noté. Et les écrans, combien de temps est-ce qu'il peut utiliser la tablette ou la télé ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "calm and informative",
+            "text": "Une demi-heure maximum l'après-midi. Plutôt des dessins animés ou un jeu éducatif, pas plus."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "curious and inquisitive",
+            "text": "Très bien. Justement, si jamais il a de la fièvre pendant la nuit, qu'est-ce que vous ferez ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "calm and informative",
+            "text": "Je vous appellerai tout de suite, même tard. Le médecin de garde est à dix minutes."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "curious and inquisitive",
+            "text": "Merci, ça me rassure. Au cas où je rentrerais en retard dimanche, est-ce que je pourrais vous prévenir par message ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "calm and informative",
+            "text": "Bien sûr. Prévenez-moi avant dix-huit heures et je le garderai sans problème jusqu'à votre retour."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "curious and inquisitive",
+            "text": "C'est gentil. Si jamais il a peur la nuit, est-ce qu'il dormira dans une chambre à part ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "calm and informative",
+            "text": "Dans la chambre d'amis, juste à côté de la mienne. Prévoyez son pyjama, son doudou et sa brosse à dents."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "curious and inquisitive",
+            "text": "Bien sûr. En fait, je voulais aussi vous demander : est-ce que je vous dois quelque chose pour le week-end ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "calm and informative",
+            "text": "Rien du tout, c'est entre voisins. Un jour, vous me rendrez le service, c'est tout."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "curious and inquisitive",
+            "text": "Avec plaisir. Et qu'est-ce qu'il aime faire en général, pour que je vous prépare ses affaires ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "calm and informative",
+            "text": "Il adore dessiner et jouer au ballon. Je peux aussi lui proposer des jeux calmes."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "curious and inquisitive",
+            "text": "Super. Je vous laisse mon numéro et une petite liste écrite des consignes, au cas où."
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "calm and informative",
+            "text": "Parfait, je la mettrai sur le frigo avec une photo de sa carte d'assurance maladie."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "curious and inquisitive",
+            "text": "Ça répond à toutes mes questions. Merci beaucoup, vraiment. Je vous dépose mon fils samedi à neuf heures. À samedi !"
+        }
+    ]
+}

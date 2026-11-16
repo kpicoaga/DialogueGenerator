@@ -1,139 +1,149 @@
 {
-  "title": "S'informer sur la nouvelle société d'un ancien collègue",
-  "model": "mlx-community/Voxtral-4B-TTS-2603-mlx-4bit",
-  "speakers": {
-    "Speaker 1": {
-      "voice": "fr_male"
+    "title": "S'informer sur la nouvelle société d'un ancien collègue",
+    "model": "mlx-community/Voxtral-4B-TTS-2603-mlx-4bit",
+    "speakers": {
+        "Speaker 1": {
+            "voice": "fr_male"
+        },
+        "Speaker 2": {
+            "voice": "fr_female"
+        }
     },
-    "Speaker 2": {
-      "voice": "fr_female"
-    }
-  },
-  "turns": [
-    {
-      "speaker": "Speaker 1",
-      "instructions": "polite and friendly",
-      "text": "Salut ! Ça fait plaisir de te voir. J'ai entendu dire que tu as changé de travail le mois dernier, et ça m'intéresse beaucoup. Est-ce que je pourrais te poser quelques questions sur ta nouvelle société ?"
-    },
-    {
-      "speaker": "Speaker 2",
-      "instructions": "welcoming and helpful",
-      "text": "Salut ! Bien sûr, avec plaisir. Ça me fait du bien d'en parler, je suis encore tout nouveau. Qu'est-ce que tu veux savoir ?"
-    },
-    {
-      "speaker": "Speaker 1",
-      "instructions": "curious and inquisitive",
-      "text": "Merci beaucoup. Pour commencer, en quoi consiste exactement ton nouveau poste au quotidien ?"
-    },
-    {
-      "speaker": "Speaker 2",
-      "instructions": "calm and informative",
-      "text": "Je m'occupe du suivi des clients et de la préparation des offres. C'est un mélange de bureau et de réunions avec les équipes techniques."
-    },
-    {
-      "speaker": "Speaker 1",
-      "instructions": "interested and engaged",
-      "text": "D'accord, je vois bien le genre de travail. Et à qui est-ce que tu travailles au quotidien, une petite équipe ou beaucoup de collègues ?"
-    },
-    {
-      "speaker": "Speaker 2",
-      "instructions": "calm and informative",
-      "text": "Nous sommes six dans mon service. Le reste de la société compte une quarantaine de personnes, alors on finit par se croiser."
-    },
-    {
-      "speaker": "Speaker 1",
-      "instructions": "interested and engaged",
-      "text": "Ah, c'est une taille humaine, ça me plaît. Et qu'est-ce qui distingue cette société de ton ancienne entreprise ?"
-    },
-    {
-      "speaker": "Speaker 2",
-      "instructions": "thoughtful and practical",
-      "text": "Ici, les décisions se prennent vite et on nous demande notre avis. Avant, chaque changement passait par trois réunions et deux signatures."
-    },
-    {
-      "speaker": "Speaker 1",
-      "instructions": "interested and engaged",
-      "text": "Je comprends mieux. Puisque je pense à changer aussi, que me conseilleriez-vous pour quelqu'un comme moi ?"
-    },
-    {
-      "speaker": "Speaker 2",
-      "instructions": "warm and encouraging",
-      "text": "Je te conseillerais de postuler, franchement. Ils cherchent des personnes avec de l'expérience, et ton profil correspond bien."
-    },
-    {
-      "speaker": "Speaker 1",
-      "instructions": "interested and engaged",
-      "text": "Merci, ça m'encourage. Et pour les conditions, quels sont les avantages : le télétravail, les horaires souples ?"
-    },
-    {
-      "speaker": "Speaker 2",
-      "instructions": "calm and informative",
-      "text": "Deux jours de télétravail par semaine et des horaires assez libres. Il y a aussi une prime de fin d'année et une bonne mutuelle."
-    },
-    {
-      "speaker": "Speaker 1",
-      "instructions": "interested and engaged",
-      "text": "C'est intéressant. Et quand est-ce que tu commences et tu finis ta journée, en général ?"
-    },
-    {
-      "speaker": "Speaker 2",
-      "instructions": "calm and informative",
-      "text": "Je commence vers neuf heures et je finis vers dix-sept heures trente. Le vendredi, tout le monde part un peu plus tôt."
-    },
-    {
-      "speaker": "Speaker 1",
-      "instructions": "thoughtful and practical",
-      "text": "C'est agréable. Et où se trouvent exactement vos bureaux, dans le centre ou en banlieue ?"
-    },
-    {
-      "speaker": "Speaker 2",
-      "instructions": "calm and informative",
-      "text": "Dans un immeuble près du vieux port, au troisième étage. La vue sur l'eau est vraiment agréable le matin."
-    },
-    {
-      "speaker": "Speaker 1",
-      "instructions": "thoughtful and practical",
-      "text": "Je vois. Et comment est-ce que tu t'y rends, en métro, en bus ou en voiture ?"
-    },
-    {
-      "speaker": "Speaker 2",
-      "instructions": "calm and informative",
-      "text": "En métro, c'est direct depuis chez moi et ça prend vingt minutes. Il y a aussi un parking, mais il est souvent complet."
-    },
-    {
-      "speaker": "Speaker 1",
-      "instructions": "interested and engaged",
-      "text": "C'est pratique. Et qui est-ce qui encadre l'équipe : un chef de service ou un responsable par projet ?"
-    },
-    {
-      "speaker": "Speaker 2",
-      "instructions": "calm and informative",
-      "text": "Un responsable par projet, et un directeur très accessible. On peut frapper à sa porte quand on a une question."
-    },
-    {
-      "speaker": "Speaker 1",
-      "instructions": "thoughtful and practical",
-      "text": "C'est rassurant. Et comment est-ce que je dois faire pour postuler, il faut envoyer un courriel ou passer par leur site ?"
-    },
-    {
-      "speaker": "Speaker 2",
-      "instructions": "calm and informative",
-      "text": "Le plus simple, c'est le site Internet, il y a une rubrique carrières. Tu remplis un formulaire et tu joins ton cv."
-    },
-    {
-      "speaker": "Speaker 1",
-      "instructions": "thoughtful and practical",
-      "text": "D'accord, je vais regarder ce soir. Justement, si jamais j'ai un entretien, est-ce qu'il y a une période d'essai et une formation au début ?"
-    },
-    {
-      "speaker": "Speaker 2",
-      "instructions": "calm and informative",
-      "text": "Une période de trois mois, et deux semaines d'accompagnement avec un collègue. En cas de problème, on peut aussi changer de service."
-    },
-    {
-      "speaker": "Speaker 1",
-      "instructions": "grateful and warm",
-      "text": "Parfait, ça répond à toutes mes questions. Merci beaucoup pour ton temps, je vais préparer ma candidature ce week-end. À bientôt et bonne continuation dans ton nouveau poste !"
-    }
-  ]
+    "turns": [
+        {
+            "speaker": "Speaker 1",
+            "instructions": "curious and inquisitive",
+            "text": "Salut ! J'ai entendu dire que tu as changé de travail. Je voudrais changer de travail aussi. Est-ce que je pourrais te poser quelques questions ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "calm and informative",
+            "text": "Salut ! Bien sûr, avec plaisir. Je suis encore tout nouveau, mais je répondrai avec plaisir. Qu'est-ce que tu veux savoir ?"
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "curious and inquisitive",
+            "text": "Merci beaucoup. Pour commencer, en quoi consiste exactement ton nouveau poste au quotidien ? Et est-ce adapté à quelqu'un qui débute ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "calm and informative",
+            "text": "Je m'occupe du suivi des clients et de la préparation des offres. C'est un mélange de bureau et de réunions."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "curious and inquisitive",
+            "text": "D'accord, je vois bien le genre de travail. Et qu'est-ce qui distingue cette société de ton ancienne entreprise ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "calm and informative",
+            "text": "Ici, les décisions se prennent vite et on nous demande notre avis. Avant, chaque changement passait par trois réunions."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "curious and inquisitive",
+            "text": "Je comprends mieux. Puisque je pense à changer aussi, que me conseilleriez-vous pour quelqu'un comme moi ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "calm and informative",
+            "text": "Je te conseillerais de postuler, franchement. Ils cherchent des personnes avec de l'expérience, et ton profil correspond bien."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "curious and inquisitive",
+            "text": "Merci, ça m'encourage. Et pour les avantages, le télétravail et les horaires, comment est-ce que ça se passe ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "calm and informative",
+            "text": "Deux jours de télétravail par semaine et des horaires libres. Il y a aussi une prime de fin d'année."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "curious and inquisitive",
+            "text": "C'est intéressant. Et quand est-ce que tu commences et tu finis ta journée, en général ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "calm and informative",
+            "text": "Je commence vers neuf heures et je finis vers dix-sept heures trente. Le vendredi tout le monde part plus tôt."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "curious and inquisitive",
+            "text": "C'est agréable. Et où se trouvent exactement vos bureaux, dans le centre ou en banlieue ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "calm and informative",
+            "text": "Dans un immeuble près du vieux port, au troisième étage. La vue sur l'eau est vraiment agréable le matin."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "curious and inquisitive",
+            "text": "Je vois. Et comment est-ce que tu t'y rends, en métro, en bus ou en voiture ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "calm and informative",
+            "text": "En métro, c'est direct depuis chez moi et ça prend vingt minutes. Il y a un parking, mais souvent complet."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "curious and inquisitive",
+            "text": "C'est pratique. Et qui est-ce qui encadre l'équipe, un chef de service ou un responsable par projet ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "calm and informative",
+            "text": "Un responsable par projet, et un directeur très accessible. On peut frapper à sa porte quand on a une question."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "curious and inquisitive",
+            "text": "C'est rassurant. Et comment est-ce que je dois postuler, par courriel ou par leur site Internet ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "calm and informative",
+            "text": "Le plus simple, c'est le site Internet, il y a une rubrique carrières. Tu remplis un formulaire et tu joins ton CV."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "curious and inquisitive",
+            "text": "D'accord, je vais regarder ce soir. Justement, si jamais j'ai un entretien, est-ce qu'il y a une période d'essai ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "calm and informative",
+            "text": "Une période de trois mois et deux semaines d'accompagnement avec un collègue. En cas de problème on change de service."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "curious and inquisitive",
+            "text": "Au cas où mon employeur actuel demande un préavis, est-ce que je peux décaler mon arrivée ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "calm and informative",
+            "text": "Oui, c'est possible. Préviens-les dès que tu as une date, et on s'organisera."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "curious and inquisitive",
+            "text": "Si jamais je dois continuer à travailler en parallèle, est-ce que le poste peut se faire à temps partiel ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "calm and informative",
+            "text": "Non, c'est un poste à temps plein. Mais après l'essai, on peut discuter d'aménagement d'horaires."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "curious and inquisitive",
+            "text": "Parfait, ça répond à toutes mes questions. Merci encore, je vais préparer ma candidature. À bientôt et bonne continuation !"
+        }
+    ]
 }
