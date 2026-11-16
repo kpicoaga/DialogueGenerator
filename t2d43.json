@@ -1,0 +1,149 @@
+{
+    "title": "Le stage de formation au Canada",
+    "model": "mlx-community/Voxtral-4B-TTS-2603-mlx-4bit",
+    "speakers": {
+        "Speaker 1": {
+            "voice": "fr_male"
+        },
+        "Speaker 2": {
+            "voice": "fr_female"
+        }
+    },
+    "turns": [
+        {
+            "speaker": "Speaker 1",
+            "instructions": "curious and inquisitive",
+            "text": "Bonjour Monsieur, vous m'avez annoncé ma participation au stage de formation au Canada. J'aimerais avoir quelques précisions avant de préparer mon départ."
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "calm and informative",
+            "text": "Bien sûr, c'est tout à fait normal. Le stage commence le 4 mars et dure quinze jours. Nous avons encore trois semaines pour préparer votre départ ensemble."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "curious and inquisitive",
+            "text": "D'accord. Et où serai-je logé pendant ces deux semaines ? Est-ce que c'est loin du centre de formation ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "calm and informative",
+            "text": "Dans une résidence universitaire, à dix minutes à pied du centre de formation. Les chambres sont individuelles, le petit-déjeuner est inclus, et il y a une salle de sport."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "curious and inquisitive",
+            "text": "Est-ce que je devrai partager la cuisine avec les autres stagiaires ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "calm and informative",
+            "text": "Oui, il y a une cuisine commune par étage. C'est pratique et cela permet de rencontrer des collègues venus de différents pays."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "curious and inquisitive",
+            "text": "Comment vais-je me rendre à l'aéroport le jour du départ, et qui s'occupe de la réservation ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "calm and informative",
+            "text": "Un taxi sera réservé par l'entreprise. Vous n'aurez rien à payer, tout est pris en charge par le service des ressources humaines."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "curious and inquisitive",
+            "text": "Et une fois sur place, comment est-ce que je me déplace en ville ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "calm and informative",
+            "text": "Montréal a un excellent réseau de métro et de bus. Nous vous donnerons une carte de transport valable pendant tout le séjour."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "curious and inquisitive",
+            "text": "Combien coûte cette carte, et est-ce que l'entreprise la rembourse ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "calm and informative",
+            "text": "Elle est déjà comprise dans le budget du stage, donc vous n'avez pas à avancer l'argent. Gardez simplement les justificatifs."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "curious and inquisitive",
+            "text": "Quand est-ce que je recevrai mon billet d'avion et les documents nécessaires ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "calm and informative",
+            "text": "Le service administratif vous les enverra la semaine prochaine, avec votre attestation d'inscription et votre ordre de mission."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "curious and inquisitive",
+            "text": "Qui sera mon contact sur place si j'ai un problème pendant le séjour ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "calm and informative",
+            "text": "Madame Tremblay, notre partenaire à Montréal. Je vous donnerai son numéro de téléphone et son adresse courriel avant votre départ."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "curious and inquisitive",
+            "text": "Si jamais mon vol est annulé à cause de la météo, que dois-je faire ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "calm and informative",
+            "text": "Appelez-moi immédiatement, même le week-end. Nous avons une assurance qui couvre ce genre de situation et nous trouverons une solution."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "curious and inquisitive",
+            "text": "Au cas où je tomberais malade sur place, est-ce que je serai couvert par une assurance santé ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "calm and informative",
+            "text": "Oui, une assurance complète est incluse dans votre contrat. Vous recevrez la carte avant le départ, avec les numéros d'urgence."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "curious and inquisitive",
+            "text": "Justement, je prends un traitement quotidien. Est-ce que je peux emporter mes médicaments sans problème ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "calm and informative",
+            "text": "Bien sûr, mais gardez l'ordonnance avec vous. Certains médicaments doivent être déclarés à la douane, alors vérifiez la liste."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "curious and inquisitive",
+            "text": "Pourquoi est-ce que le stage dure seulement quinze jours ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "calm and informative",
+            "text": "Parce que le programme est très intensif : ateliers le matin et visites d'entreprise l'après-midi. Deux semaines suffisent pour l'essentiel."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "curious and inquisitive",
+            "text": "Quel est le programme exact de la première semaine ?"
+        },
+        {
+            "speaker": "Speaker 2",
+            "instructions": "calm and informative",
+            "text": "Lundi, accueil et présentation. Mardi et mercredi, formation aux nouveaux logiciels. Jeudi, visite d'une usine. Vendredi, bilan avec les formateurs. Vous recevrez le programme détaillé par courriel."
+        },
+        {
+            "speaker": "Speaker 1",
+            "instructions": "curious and inquisitive",
+            "text": "Merci beaucoup, Monsieur, tout est clair maintenant. Je vais préparer mes affaires et je vous tiendrai informé de mes démarches. Bonne journée !"
+        }
+    ]
+}
